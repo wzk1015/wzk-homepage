@@ -1,5 +1,5 @@
 ---
-title: Zhaokai Wang (王肇凯)
+title: Zhaokai Wang
 role: Undergraduate at Beihang University
 avatar_filename: 生活照.jpg
 bio: short biography
