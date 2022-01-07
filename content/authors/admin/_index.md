@@ -1,7 +1,7 @@
 ---
 title: Zhaokai Wang
 role: Undergraduate at Beihang University
-avatar_filename: 生活照.jpg
+avatar_filename: avatar1.jpg
 bio: short biography
 interests:
   - Artificial Intelligence
@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/in/zhaokai-wang-%E7%8E%8B%E8%82%87%E5%87%AF-5428181aa/
   - display:
       header: false
-    link: cv_wzk.pdf
+    link: uploads/cv_wzk.pdf
     icon: cv
     icon_pack: ai
 organizations:
@@ -32,7 +32,7 @@ organizations:
     url: sail.sea.com
 education:
   courses:
-    - course: PhD (Incoming)
+    - course: PhD (incoming)
       institution: Shanghai Jiao Tong University
       year: ""
     - course: BA in Economics (double major)
