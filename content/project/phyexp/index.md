@@ -27,13 +27,9 @@ slides: ""
 
 # 北航基物实验小程序
 
-
-
 一个自发的学习项目，团队开发，帮助学弟学妹攻克基物实验
 
 扫码即可使用~
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKl8l7ibtu7ruYV1luEiaEyHTtBch07Yc4ssucnd39Vf2qQdDMgpJs7WLA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
 
 
 
@@ -46,44 +42,6 @@ slides: ""
 发表评价：评价指导老师、获得的积分数，查看评分统计，向大家分享你的实验经验
 
 使用实用工具：做实验时手机打开计数器、计算器，再也不会手算到抽筋了
-
-
-
-
-
-**界面**
-
-实验详情与评价
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKu8kOy4T8ywjLsYHBOmOaLDjiblib0aPpMlpl51RM3EPJhgjk3TOyHYSg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKx13sS1Y6qVhvnOrgogmUXksgveKIXQk4TJ6gWCQkVibfSOqRbOpdjFw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKIu7L1YM5rIRr0PdsFpaibrhX8uhk0j3DFS4N2Q3u2qh4icQOAorrjcUw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKicvhIU3E6yjVVCEN9fBbwsCarvoR3Co4bsZBwOLeN1X2XlNeKkicoFibA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-
-
-实验数据
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKxWyIcVbh6nmGyYsy44gTDR12qRx0srcrL5ClicmVvZRBKFxUia3pXictg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaK6uh8lgBo0Zm1YSEv5B1JEVx477awdBkvsVI7oib3tcS5ga8ZuMcjOHw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-
-
-
-
-实用工具
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKPlibRw3VScSJOsTz5zvekyH3OqZdwA3tJtOcTtFAFNgHPIbZ3gIADcQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKibYiatYNBjUqAOgiamp3umoG8s6QKLrUTtQiaianNLT9kEZtjCfJRuC9kicA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaK4HXCdOiblvWib3qlLz6fiaiaialWvQD5kaw1RwcriaoeibBliauiatOwk3XmP8Q/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
-
-<img src="https://mmbiz.qpic.cn/mmbiz_jpg/vMygUhzeDXicKjx1t6ctBMxmVvRtto2iaKJjHKkxZ5xYCKOibmGoVgf25A6EPFZA5XbNxeFp9IQ6xZVcaUaZbSG1w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
 
 
 
