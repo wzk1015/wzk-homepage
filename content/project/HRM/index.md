@@ -31,11 +31,7 @@ slides: ""
 
 ## 简介
 
-人力资源机器（Human Resource Machine）是一款手机编程游戏，玩家可通过指令操作主角员工从传送带取、放箱子（数字）进行运算，完成指定任务。游戏截图如图所示。
-
- 
-
-![](featured.png)
+人力资源机器（Human Resource Machine）是一款手机编程游戏，玩家可通过指令操作主角员工从传送带取、放箱子（数字）进行运算，完成指定任务。游戏截图如上图所示。
 
 
 
@@ -77,7 +73,7 @@ slides: ""
 
 下图为一个早期版本的电路设计（可在https://github.com/wzk1015/HRM-Architecture/tree/master/Circuit中查看）
 
-![img](https://img2020.cnblogs.com/blog/1950008/202004/1950008-20200425023652818-490682935.png)
+![img](cpu.png)
 
  
 
@@ -125,7 +121,7 @@ HRM架构CPU支持算术溢出、内存为空（模拟游戏设定）、权限�
 
 该文档也包括一个示例的异常处理程序，可以对HRM的异常机制以及汇编指令有初步的了解。
 
-![img](https://img2020.cnblogs.com/blog/1950008/202004/1950008-20200425024043958-1867879836.png)
+![img](error.png)
 
  
 
