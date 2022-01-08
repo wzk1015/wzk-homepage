@@ -38,10 +38,10 @@ date_format: Jan 2006
 
 experience:
   - title: Research Intern
-    company: University X
+    company: Sea AI Lab
     company_url: 'sail.sea.com'
-    date_start: '2021-08'
-    date_end: '2022-02'
+    date_start: '2021-08-23'
+    date_end: '2022-02-11'
 #    company_logo: org-gc
 #    location: California
     description: Research on music AI
