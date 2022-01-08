@@ -2,7 +2,7 @@
 title: Zhaokai Wang
 role: Undergraduate at Beihang University
 avatar_filename: avatar1.jpg
-bio: short biography
+bio: 
 interests:
   - Artificial Intelligence
   - Computer Vision
