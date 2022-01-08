@@ -1,6 +1,6 @@
 ---
 title: Sanguosha CLI
-summary: Written in Java, 10000+ lines.
+summary: Written in Java, 10000+ lines
 tags:
 - Personal
 date: "2020-07-02T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2020-07-02T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: preview
   focal_point: Smart
 
 url_code: "https://github.com/wzk1015/sanguosha"
@@ -25,17 +25,7 @@ url_video: ""
 slides: ""
 ---
 
-# 文字三国杀设计文档
-
-2021秋季Java课程大作业
-
-18231047王肇凯
-
-20373719段桑妮
-
-
-
-[TOC]
+# 文字版三国杀
 
 ## 功能介绍
 
