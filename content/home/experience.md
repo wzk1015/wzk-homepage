@@ -21,7 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-#experience:
+
 #  - title: CEO
 #    company: GenCoin
 #    company_url: ''
@@ -35,14 +35,18 @@ date_format: Jan 2006
 #        * Analysing
 #        * Modelling
 #        * Deploying
-        
+
+experience:
   - title: Research Intern
     company: University X
     company_url: 'sail.sea.com'
     date_start: '2021-08'
     date_end: '2022-02'
+#    company_logo: org-gc
+#    location: California
     description: Research on music AI
 
 design:
   columns: '2'
 ---
+
