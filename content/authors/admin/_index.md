@@ -29,7 +29,7 @@ organizations:
   - name: Beihang University
     url: https://www.buaa.edu.cn
   - name: Sea AI Lab
-    url: sail.sea.com
+    url: https://sail.sea.com
 education:
   courses:
     - course: PhD (incoming)
