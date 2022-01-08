@@ -28,20 +28,18 @@ social:
 organizations:
   - name: Beihang University
     url: https://www.buaa.edu.cn
-  - name: Sea AI Lab
-    url: https://sail.sea.com
 education:
   courses:
-    - course: PhD (incoming) 2022-
+    - course: PhD (incoming)
       institution: Shanghai Jiao Tong University
-      year: ""
-    - course: BA in Economics (double major) 2019-2022
+      year: "2022"
+    - course: BA in Economics (double major)
       institution: Peking University
-      year: ""
-    - course: BEng in Computer Science 2018-2022
+      year: "2019-2022"
+    - course: BEng in Computer Science
       institution: Beihang University
-      year: ""
-email: ""
+      year: "2018-2022"
+email: "self@wzk.plus"
 superuser: true
 highlight_name: true
 ---
