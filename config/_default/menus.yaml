@@ -23,6 +23,3 @@ main:
   - name: CV
     url: uploads/cv_wzk.pdf
     weight: 70
-  - name: Email
-    url: 'mailto:self@wzk.plus'
-    weight: 80

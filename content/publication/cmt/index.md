@@ -16,8 +16,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- 
+- 
 - "Corresponding author"
 - 
 
@@ -54,13 +54,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2111.08380'
+url_pdf: 'https://arxiv.org/pdf/2111.08380.pdf'
 url_code: 'https://github.com/wzk1015/video-bgm-generation'
 url_dataset: ''
 url_poster: ''
 url_project: 'https://www.wzk.plus/cmt'
 url_slides: ''
-url_source: 'https://www.wzk.plus/cmt/cmt.bib'
+url_source: ''
 url_video: ''
 
 # Featured image
