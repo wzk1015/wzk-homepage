@@ -39,8 +39,6 @@ date_format: Jan 2006
   - title: Research Intern
     company: University X
     company_url: 'sail.sea.com'
-#    company_logo: org-x
-#    location: California
     date_start: '2021-08'
     date_end: '2022-02'
     description: Research on music AI
