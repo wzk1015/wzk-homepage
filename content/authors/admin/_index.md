@@ -32,13 +32,13 @@ organizations:
     url: https://sail.sea.com
 education:
   courses:
-    - course: PhD (incoming)
+    - course: PhD (incoming) 2022-
       institution: Shanghai Jiao Tong University
       year: ""
-    - course: BA in Economics (double major)
+    - course: BA in Economics (double major) 2019-2022
       institution: Peking University
       year: ""
-    - course: BEng in Computer Science
+    - course: BEng in Computer Science 2018-2022
       institution: Beihang University
       year: ""
 email: ""

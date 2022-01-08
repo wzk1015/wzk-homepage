@@ -21,8 +21,8 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-  url: uploads/cv_wzk.pdf
-  weight: 70
+    url: uploads/cv_wzk.pdf
+    weight: 70
   - name: Email
-  url: 'mailto:self@wzk.plus'
-  weight: 80
+    url: 'mailto:self@wzk.plus'
+    weight: 80
