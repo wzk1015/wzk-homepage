@@ -1,6 +1,6 @@
 ---
 title: Zhaokai Wang
-role: Undergraduate at Beihang University
+role: Senior student at BUAA
 avatar_filename: avatar1.jpg
 bio: 
 interests:
@@ -28,8 +28,8 @@ social:
 organizations:
   - name: Beihang University
     url: https://www.buaa.edu.cn
-education:
-  courses:
+#education:
+  #courses:
     #- course: PhD (incoming)
     #  institution: Shanghai Jiao Tong University
     #  year: "2022"
