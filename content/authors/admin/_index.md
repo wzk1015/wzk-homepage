@@ -30,15 +30,15 @@ organizations:
     url: https://www.buaa.edu.cn
 education:
   courses:
-    - course: PhD (incoming)
-      institution: Shanghai Jiao Tong University
-      year: "2022"
-    - course: BA in Economics (double major)
-      institution: Peking University
-      year: "2019-2022"
-    - course: BEng in Computer Science
-      institution: Beihang University
-      year: "2018-2022"
+    #- course: PhD (incoming)
+    #  institution: Shanghai Jiao Tong University
+    #  year: "2022"
+    #- course: BA in Economics (double major)
+    #  institution: Peking University
+    #  year: "2019-2022"
+    #- course: BEng in Computer Science
+    #  institution: Beihang University
+    #  year: "2018-2022"
 email: "self@wzk.plus"
 superuser: true
 highlight_name: true
