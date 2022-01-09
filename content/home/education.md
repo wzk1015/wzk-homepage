@@ -32,7 +32,7 @@ experience:
     location: Shanghai
     description: Joint PhD program with Shanghai AI Laboratory
   - title: Double Degree, Economics
-    company: Beihang University
+    company: Peking University
     company_url: 'https://www.pku.edu.cn'
     date_start: '2019-09-01'
     date_end: '2022-06-30'

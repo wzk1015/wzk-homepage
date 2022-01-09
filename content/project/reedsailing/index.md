@@ -199,13 +199,13 @@ slides: ""
 
 ##### 5.2.1.1 推荐
 
-[![img](https://github.com/Daddies-of-SE/SE2021_doc/raw/main/user_guide/WechatUserGuide.assets/%E9%A6%96%E9%A1%B5_%20%E6%8E%A8%E8%8D%90.png)](https://github.com/Daddies-of-SE/SE2021_doc/blob/main/user_guide/WechatUserGuide.assets/首页_ 推荐.png)
+![img](https://github.com/Daddies-of-SE/SE2021_doc/raw/main/user_guide/WechatUserGuide.assets/%E9%A6%96%E9%A1%B5_%20%E6%8E%A8%E8%8D%90.png)
 
 推荐页面根据用户的关注喜好以及近期热点为用户推荐组织、活动。点击推荐的组织列表中组织头像可以进入组织详情页面、点击推荐的活动列表中活动框可以查看活动详情。
 
 ##### 5.1.1.2 地图
 
-[![img](https://github.com/Daddies-of-SE/SE2021_doc/raw/main/user_guide/WechatUserGuide.assets/%E9%A6%96%E9%A1%B5_%20%E5%9C%B0%E5%9B%BE.png)](https://github.com/Daddies-of-SE/SE2021_doc/blob/main/user_guide/WechatUserGuide.assets/首页_ 地图.png)
+![img](https://github.com/Daddies-of-SE/SE2021_doc/raw/main/user_guide/WechatUserGuide.assets/%E9%A6%96%E9%A1%B5_%20%E5%9C%B0%E5%9B%BE.png)
 
 地图页面为用户推荐所在位置附近的活动，更直观地为用户展示身边开展的活动。点击红色地点图标显示活动名称，进入活动详情界面。
 
