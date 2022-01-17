@@ -8,13 +8,13 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 15
+weight: 200
 
 title: Teaching
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
 #    image: open-book.jpg
 #    image_darken: 1.0
