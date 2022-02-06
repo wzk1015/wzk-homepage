@@ -39,7 +39,7 @@ date_format: Jan 2006
 experience:
   - title: Research Intern
     company: SenseTime
-    company_url: 'https://sensetime.com'
+    company_url: 'https://www.sensetime.com'
     date_start: '2022-02-15'
     company_logo: sensetime
     location: Beijing
@@ -50,6 +50,7 @@ experience:
     date_start: '2021-08-23'
     date_end: '2022-02-11'
     company_logo: sea
+    location: Beijing
     description: Research on music AI
 
 design:
