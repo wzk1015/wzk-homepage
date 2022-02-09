@@ -2,7 +2,8 @@
 title: Wordle Solver
 summary: Open source solvers for popular game *Wordle* - Welcome to contribute
 tags:
-- Course Project
+- Friend
+- Personal
 date: "2020-12-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
