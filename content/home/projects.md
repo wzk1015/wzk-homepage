@@ -31,6 +31,8 @@ content:
     tag: Personal
   - name: Course Project
     tag: Course Project
+  - name: Friend
+    tag: Friend
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
