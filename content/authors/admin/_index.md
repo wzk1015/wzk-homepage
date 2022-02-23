@@ -1,6 +1,6 @@
 ---
 title: Zhaokai Wang
-role: '(王肇凯) \n Senior student at BUAA'
+role: (王肇凯)
 avatar_filename: avatar1.jpg
 bio: 
 interests:
