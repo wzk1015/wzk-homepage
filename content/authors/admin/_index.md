@@ -8,16 +8,24 @@ interests:
   - Computer Vision
   - Music Generation
 social:
-  - icon: envelope
+  - display:
+      header: true
+    icon: envelope
     icon_pack: fas
     link: mailto:self@wzk.plus
-  - icon: google-scholar
+  - display:
+      header: true
+    icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=W0zVf-oAAAAJ
-  - icon: github
+  - display:
+      header: true
+    icon: github
     icon_pack: fab
     link: https://github.com/wzk1015
-  - icon: linkedin
+  - display:
+      header: true
+    icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhaokai-wang-%E7%8E%8B%E8%82%87%E5%87%AF-5428181aa/
   - display:
