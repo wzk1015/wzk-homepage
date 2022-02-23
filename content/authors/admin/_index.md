@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zhaokai-wang-%E7%8E%8B%E8%82%87%E5%87%AF-5428181aa/
   - display:
-      header: false
+      header: true
     link: uploads/cv_wzk.pdf
     icon: cv
     icon_pack: ai
@@ -43,4 +43,4 @@ email: "self@wzk.plus"
 superuser: true
 highlight_name: true
 ---
-I am an undergraduate student in Shenyuan Honors College of Beihang University, majoring in computer science. I am also studying for a double degree in economics at National School of Development of Peking University. Currently I am an intern in fundamental vision department of [SenseTime](https://www.sensetime.com/), and also an intern student of <a href="http://colalab.org/">CoLab</a> supervised Prof. <a href="http://colalab.org/people">Si Liu</a>. Before this, I was an intern at <a href="https://sail.sea.com/">Sea AI Lab</a>. I will pursue PhD degree in Shanghai Jiao Tong University, where I will be supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>.
+I am an undergraduate student in Shenyuan Honors College of Beihang University, majoring in computer science. I am also studying for a double degree in economics at National School of Development of Peking University. Currently I am an intern in fundamental vision department of [SenseTime](https://www.sensetime.com/), and also an intern student at <a href="http://colalab.org/">CoLab</a> supervised by Prof. <a href="http://colalab.org/people">Si Liu</a>. Before this, I was an intern at <a href="https://sail.sea.com/">Sea AI Lab</a>. I will pursue PhD degree in Shanghai Jiao Tong University, where I will be supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>.
