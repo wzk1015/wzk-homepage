@@ -31,8 +31,8 @@ Besides research, I like building my own little projects (you may find them on m
 
 Here are some of my friends 👬🏻
 
-* 现充[LittleNyima](https://littlenyima.github.io/)
-* 拜仁球迷[Jim Zhang](https://jimzhang.me/)
+* xian chong [LittleNyima](https://littlenyima.github.io/)
+* another Bayern fan [Jim Zhang](https://jimzhang.me/)
 
 >  tell me your personal website if you are a friend of me and you have one!
 
