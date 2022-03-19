@@ -27,11 +27,7 @@ I believe Artificial Intelligence will change our ways of living and working tho
 
 Besides research, I like building my own little projects (you may find them on my [Github](https://github.com/wzk1015) or [here](https://www.wzk.plus/#projects)). Since they are for entertainment, interest means more than usefulness. Click a star if you like them!
 
-
-
-
-
-
+---
 
 Here are some of my friends 👬🏻
 
@@ -40,11 +36,7 @@ Here are some of my friends 👬🏻
 
 >  tell me your personal website if you are a friend of me and you have one!
 
-
-
-
-
-
+---
 
 If you want to ask about research or simply want to make friends with me (I think I'm a funny guy to be with):
 
@@ -53,9 +45,7 @@ If you want to ask about research or simply want to make friends with me (I thin
 * Personal Email: self [at] wzk [dot] plus
 * WeChat: wzk_1015
 
-
-
-
+---
 
 For you who have made it this far, wish you a bright future and happy life~
 
