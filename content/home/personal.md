@@ -38,16 +38,12 @@ Here are some of my friends 👬🏻
 
 ---
 
-If you want to ask about research or simply want to make friends with me (I think I'm a funny guy to be with):
+If you want to ask about research or simply want to talk with me:
 
 * University Email: wzk1015 [at] buaa [dot] edu [dot] cn
 
 * Personal Email: self [at] wzk [dot] plus
 * WeChat: wzk_1015
-
----
-
-For you who have made it this far, wish you a bright future and happy life~
 
 
 
