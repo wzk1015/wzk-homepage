@@ -23,7 +23,7 @@ In my spare time, I like watching movies and TV shows. To name a few of my favor
 
 On holidays, I enjoy travelling to different countries and cities. I used to visit one or two countries every year, but not once since the beginning of COVID-19. I've also been to many cities in 🇨🇳, and some spots in my hometown Beijing. Natural beauty (e.g. Pulpit Rock 🇳🇴, Wanaka Lake 🇳🇿, Changbai Mountains 🇨🇳) and prosperous cities (e.g. Manhattan, Seattle, Taipei, Singapore) are both appealing to me. I've been living in Beijing for 23 years since I was born, and will spend some years in Shanghai while pursuing PhD degree in SJTU. Hopefully I can spend more time in different places and meet different friends while I'm still young.
 
-I believe Artificial Intelligence will change our ways of living and working thoroughly, though there are still a long way to go. I also believe that research can help me improve myself, which will be beneficial in many aspects of life in the future.
+I believe Artificial Intelligence will change our ways of living and working thoroughly, though there is still a long way to go. I also believe that research can help me improve myself, which will be beneficial in many aspects of life in the future.
 
 Besides research, I like building my own little projects (you may find them on my [Github](https://github.com/wzk1015) or [here](https://www.wzk.plus/#projects)). Since they are for entertainment, interest means more than usefulness. Click a star if you like them!
 
