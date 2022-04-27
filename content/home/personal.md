@@ -34,6 +34,7 @@ Here are some of my friends 👬🏻
 * xian chong [LittleNyima](https://littlenyima.github.io/)
 * another Bayern fan [Jim Zhang](https://jimzhang.me/)
 * guo ge NB [guo-hy](https://guo-hy.github.io/)
+* Hobee [LZQ](http://zequn.top/)
 
 >  tell me your personal website if you are a friend of me and you have one!
 
