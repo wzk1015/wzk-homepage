@@ -50,9 +50,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Colab Notebook
+  url: https://colab.research.google.com/github/wzk1015/video-bgm-generation/blob/develop/CMT.ipynb
 
 url_pdf: 'https://arxiv.org/pdf/2111.08380.pdf'
 url_code: 'https://github.com/wzk1015/video-bgm-generation'
