@@ -26,7 +26,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-I work as Teaching Assistant for two courses at Beihang University:
+I worked as Teaching Assistant for two courses at Beihang University:
 
 * *Fundamentals of Computers* (2021 spring)
 * *Software Engineering* (2022 spring)

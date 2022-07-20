@@ -24,14 +24,14 @@ date_format: '2006'
 
 
 experience:
-  - title: PhD (incoming)
+  - title: PhD student
     company: Shanghai Jiao Tong University
     company_url: 'https://www.sjtu.edu.cn'
     date_start: '2022-09-01'
     company_logo: sjtu
     location: Shanghai
     description: Joint PhD program with Shanghai AI Laboratory
-  - title: Double Degree, Economics
+  - title: Double bachelor degree, Economics
     company: Peking University
     company_url: 'https://www.pku.edu.cn'
     date_start: '2019-09-01'
