@@ -19,9 +19,9 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-In my spare time, I like watching movies and TV shows. To name a few of my favorites: *Person of Interest, Friends, Inception, Harry Potter, Rick and Morty*. I also watch sports games, especially 🎾 and ⚽️. My favorite player and team are *Rafael Nadal* and *Bayern München*. Rafa's persistance and Bayern's teamwork always motivate me to work toward excellence. 
+In my spare time, I like watching movies and TV shows. To name a few of my favorites: *Person of Interest, Friends, Inception, Harry Potter, Rick and Morty*. I also watch sports games, especially tennis and football. My favorite player and team are *Rafael Nadal* and *Bayern München*. Rafa's persistance and Bayern's teamwork always motivate me to work toward excellence. 
 
-On holidays, I enjoy travelling to different countries and cities. I used to visit one or two countries every year, but not once since the beginning of COVID-19. I've also been to many cities in 🇨🇳, and some spots in my hometown Beijing. Natural beauty (e.g. Pulpit Rock 🇳🇴, Wanaka Lake 🇳🇿, Changbai Mountains 🇨🇳) and prosperous cities (e.g. Manhattan, Seattle, Taipei, Singapore) are both appealing to me. I've been living in Beijing for 23 years since I was born, and will spend some years in Shanghai while pursuing PhD degree in SJTU. Hopefully I can spend more time in different places and meet new friends while I'm still young.
+On holidays, I enjoy travelling to different countries and cities. I used to visit one or two countries every year, but not once since the beginning of COVID-19. I've also been to many cities in China, and some spots in my hometown Beijing. Natural beauty (e.g. Pulpit Rock 🇳🇴, Wanaka Lake 🇳🇿, Changbai Mountains 🇨🇳) and prosperous cities (e.g. Manhattan, Seattle, Taipei, Singapore) are both appealing to me. I've been living in Beijing for 23 years since I was born, and will spend some years in Shanghai while pursuing PhD degree in SJTU. Hopefully I can visit different places and meet new friends while I'm still young.
 
 I believe Artificial Intelligence will change our ways of living and working thoroughly, though there is still a long way to go. I also believe that research can help me improve myself, which will be beneficial in many aspects of life in the future.
 
@@ -29,14 +29,12 @@ Besides research, I like building my own little projects (you may find them on m
 
 ---
 
-Here are some of my friends 👬🏻
+Some friends:
 
 * xian chong [LittleNyima](https://littlenyima.github.io/)
 * another Bayern fan [Jim Zhang](https://jimzhang.me/)
 * guo ge NB [guo-hy](https://guo-hy.github.io/)
 * Hobee [LZQ](http://zequn.top/)
-
->  tell me your personal website if you are a friend of me and you have one!
 
 ---
 
