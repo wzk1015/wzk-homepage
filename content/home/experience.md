@@ -38,13 +38,20 @@ date_format: Jan 2006
 
 experience:
   - title: Research Intern
+    company: Shanghai AI Lab
+    company_url: 'https://www.shlab.org.cn/'
+    date_start: '2022-11-10'
+    company_logo: pjlab
+    location: Shanghai
+    description: General Vision Group
+  - title: Research Intern
     company: SenseTime
     company_url: 'https://www.sensetime.com'
     date_start: '2022-02-15'
     date_end: '2022-10-20'
     company_logo: sensetime
     location: Beijing
-    description: Research on computer vision
+    description: Fundamental Vision Group
   - title: Research Intern
     company: Sea AI Lab
     company_url: 'https://sail.sea.com'

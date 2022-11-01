@@ -51,4 +51,4 @@ email: "self@wzk.plus"
 superuser: true
 highlight_name: true
 ---
-I am an first-year PhD student at Shanghai Jiao Tong University, supervised by Dr. <a href="https://jifengdai.org/">Jifeng Dai</a>. I obtained my Bachelor's degree from Beihang University, and a double bachelor degree in economics at Peking University.  Previously I interned at [SenseTime](https://www.sensetime.com/), <a href="http://colalab.org/">CoLab</a> and <a href="https://sail.sea.com/">Sea AI Lab</a>.
+I am an first-year PhD student at Shanghai Jiao Tong University, supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>. I obtained my Bachelor's degree from Beihang University, and a double bachelor degree in economics at Peking University.  Currently I am an intern at General Vision Group of [Shanghai AI Lab](https://www.shlab.org.cn/). Previously I interned at [SenseTime](https://www.sensetime.com/), <a href="http://colalab.org/">CoLab</a> and <a href="https://sail.sea.com/">Sea AI Lab</a>.

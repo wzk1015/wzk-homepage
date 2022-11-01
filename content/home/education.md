@@ -30,7 +30,7 @@ experience:
     date_start: '2022-09-01'
     company_logo: sjtu
     location: Shanghai
-    description: Joint PhD program with Shanghai AI Laboratory
+    description: Joint PhD program with Shanghai AI Lab
   - title: Double bachelor degree, Economics
     company: Peking University
     company_url: 'https://www.pku.edu.cn'
