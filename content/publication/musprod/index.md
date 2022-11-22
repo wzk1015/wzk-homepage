@@ -6,7 +6,7 @@ title: "Video Background Music Generation: Dataset, Method and Evaluation"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Le Zhuo*
-- admin*
+- admin_star
 - Baisen Wang*
 - Yue Liao
 - Stanley Peng
