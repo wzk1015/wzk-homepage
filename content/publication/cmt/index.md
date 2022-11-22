@@ -7,7 +7,7 @@ title: "Video Background Music Generation with Controllable Music Transformer"
 authors:
 - Shangzhe Di
 - Zeren Jiang
-- Si Liu*
+- Si Liu
 - admin
 - Leyan Zhu
 - Zexin He

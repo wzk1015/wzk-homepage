@@ -8,7 +8,7 @@ authors:
 - admin
 - Renda Bao
 - Qi Wu
-- Si Liu*
+- Si Liu
 
 # Author notes (optional)
 author_notes:
