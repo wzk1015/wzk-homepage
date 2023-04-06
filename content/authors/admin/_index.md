@@ -36,19 +36,20 @@ social:
 organizations:
   - name: Shanghai Jiao Tong University
     url: https://www.sjtu.edu.cn
-#education:
-  #courses:
-    #- course: PhD
-    #  institution: Shanghai Jiao Tong University
-    #  year: "2022-"
-    #- course: BA in Economics (double major)
-    #  institution: Peking University
-    #  year: "2019-2022"
-    #- course: BEng in Computer Science
-    #  institution: Beihang University
-    #  year: "2018-2022"
+education:
+  courses:
+    - course: Ph.D. (joint program with Shanghai AI Lab)
+      institution: Shanghai Jiao Tong University
+      year: "2022-"
+    - course: B.A. in Economics (double major)
+      institution: Peking University
+      year: "2019-2022"
+    - course: B.Eng. in Computer Science
+      institution: Beihang University
+      year: "2018-2022"
 email: "self@wzk.plus"
 superuser: true
 highlight_name: true
 ---
-I am an first-year PhD student at Shanghai Jiao Tong University, supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>. I obtained my Bachelor's degree from Beihang University, and a double bachelor degree in economics at Peking University.  Currently I am an intern at General Vision Group of [Shanghai AI Lab](https://www.shlab.org.cn/). Previously I interned at [SenseTime](https://www.sensetime.com/), <a href="http://colalab.org/">CoLab</a> and <a href="https://sail.sea.com/">Sea AI Lab</a>.
+I am a first-year Ph.D. student at Shanghai Jiao Tong University, supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>. I obtained my bachelor's degree from Beihang University and a double bachelor's degree in economics from Peking University.  Currently, I am an intern at OpenGVLab of [Shanghai AI Lab](https://www.shlab.org.cn/). Previously I interned at [CoLab](http://colalab.net/), [SenseTime](https://www.sensetime.com/),  and <a href="https://sail.sea.com/">Sea AI Lab</a>.
+

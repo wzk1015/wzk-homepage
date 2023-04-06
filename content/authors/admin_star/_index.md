@@ -9,27 +9,27 @@ interests:
   - Music Generation
 social:
   - display:
-      header: true
+      header: false
     icon: envelope
     icon_pack: fas
     link: mailto:self@wzk.plus
   - display:
-      header: true
+      header: false
     icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=W0zVf-oAAAAJ
   - display:
-      header: true
+      header: false
     icon: github
     icon_pack: fab
     link: https://github.com/wzk1015
   - display:
-      header: true
+      header: false
     icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/zhaokai-wang-%E7%8E%8B%E8%82%87%E5%87%AF-5428181aa/
   - display:
-      header: true
+      header: false
     link: uploads/cv_wzk.pdf
     icon: cv
     icon_pack: ai

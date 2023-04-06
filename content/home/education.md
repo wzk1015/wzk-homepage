@@ -2,6 +2,7 @@
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
+active: false
 
 # This file represents a page section.
 headless: true
@@ -24,13 +25,13 @@ date_format: '2006'
 
 
 experience:
-  - title: PhD student
+  - title: Ph.D. student
     company: Shanghai Jiao Tong University
     company_url: 'https://www.sjtu.edu.cn'
     date_start: '2022-09-01'
     company_logo: sjtu
     location: Shanghai
-    description: Joint PhD program with Shanghai AI Lab
+    description: Joint Ph.D. program with Shanghai AI Lab
   - title: Double bachelor degree, Economics
     company: Peking University
     company_url: 'https://www.pku.edu.cn'
