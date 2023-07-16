@@ -35,8 +35,8 @@ publishDate: "2022-11-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv
-publication_short: arXiv
+publication: In *ICCV 2023*
+publication_short: In *ICCV 2023*
 
 abstract: Music is essential when editing videos, but selecting music manually is difficult and time-consuming. Thus, we seek to automatically generate background music tracks given video input. This is a challenging task since it requires plenty of paired videos and music to learn their correspondence. Unfortunately, there exist no such datasets. To close this gap, we introduce a dataset, benchmark model, and evaluation metric for video background music generation. We introduce SymMV, a video and symbolic music dataset, along with chord, rhythm, melody, and accompaniment annotations. To the best of our knowledge, it is the first video-music dataset with high-quality symbolic music and detailed annotations. We also propose a benchmark video background music generation framework named V-MusProd, which utilizes music priors of chords, melody, and accompaniment along with video-music relations of semantic, color, and motion features. To address the lack of objective metrics for video-music correspondence, we propose a retrieval-based metric VMCP built upon a powerful video-music representation learning model. Experiments show that with our dataset, V-MusProd outperforms the state-of-the-art method in both music quality and correspondence with videos. We believe our dataset, benchmark model, and evaluation metric will boost the development of video background music generation.
 
