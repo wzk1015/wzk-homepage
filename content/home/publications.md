@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 45
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -32,7 +32,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: 1
   columns: '2'
 ---
 
