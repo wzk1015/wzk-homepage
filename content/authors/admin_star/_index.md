@@ -30,7 +30,7 @@ social:
     link: https://www.linkedin.com/in/zhaokai-wang-%E7%8E%8B%E8%82%87%E5%87%AF-5428181aa/
   - display:
       header: false
-    link: uploads/cv_wzk.pdf
+    link: uploads/CV_ZhaokaiWang.pdf
     icon: cv
     icon_pack: ai
 organizations:

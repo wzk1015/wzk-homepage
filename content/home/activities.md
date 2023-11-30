@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 200
 
-title: Teaching
+title: Activities
 subtitle:
 
 design:
@@ -26,7 +26,12 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-I worked as Teaching Assistant for two courses at Beihang University:
+Conference Reviewer: 
+
+* ICCV 2023
+* CVPR 2024
+
+Teaching Assistant:
 
 * *Fundamentals of Computers* (2021 spring)
 * *Software Engineering* (2022 spring)
