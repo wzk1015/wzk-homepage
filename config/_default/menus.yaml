@@ -13,12 +13,12 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30  
-  # - name: Projects
-  #   url: '#projects'
-  #   weight: 40
-  # - name: Personal
-  #   url: '#personal'
-  #   weight: 50
+  - name: Projects
+    url: '#projects'
+    weight: 40
+  - name: Activities
+    url: '#activities'
+    weight: 50
   
 
   # Link to a PDF of your resume/CV from the menu.
