@@ -1,5 +1,6 @@
 ---
 title: "Video Background Music Generation: Dataset, Method and Evaluation"
+weight: 3
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

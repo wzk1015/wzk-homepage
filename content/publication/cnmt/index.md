@@ -1,5 +1,6 @@
 ---
 title: "Confidence-aware Non-repetitive Multimodal Transformers for TextCaps"
+weight: 2
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

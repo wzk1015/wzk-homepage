@@ -1,5 +1,6 @@
 ---
 title: "Synergizing Spatial Optimization with Large Language Models for Open-Domain Urban Itinerary Planning"
+weight: 5
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
