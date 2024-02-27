@@ -32,7 +32,7 @@ content:
   order: desc
 design:
   # Choose a view for the listings:
-  view: 1
+  view: 4
   columns: '2'
 ---
 
