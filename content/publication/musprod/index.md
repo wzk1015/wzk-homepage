@@ -53,9 +53,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Demo
+  url: https://drive.google.com/drive/folders/1ASY44xqWGZgKkcHhpzWlOhIbUIMe_epQ?usp=sharing
 
 url_pdf: 'https://arxiv.org/pdf/2211.11248.pdf'
 url_code: ''
