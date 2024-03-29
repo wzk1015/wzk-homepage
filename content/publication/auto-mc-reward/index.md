@@ -54,14 +54,14 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Demo
+  url: https://yangxue0827.github.io/auto_mc-reward.html
 
 url_pdf: 'https://arxiv.org/abs/2312.09238'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://yangxue0827.github.io/auto_mc-reward.html'
+url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
