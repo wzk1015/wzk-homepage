@@ -51,7 +51,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Colab Notebook
   url: https://colab.research.google.com/github/wzk1015/video-bgm-generation/blob/main/CMT.ipynb
 - name: Demo

@@ -53,7 +53,7 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Demo
   url: https://yangxue0827.github.io/auto_mc-reward.html
 
