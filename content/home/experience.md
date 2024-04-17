@@ -43,7 +43,7 @@ experience:
     date_start: '2022-11-10'
     company_logo: pjlab
     location: Shanghai
-    description: General Vision Group
+    description: OpenGVLab
   - title: Research Intern
     company: SenseTime
     company_url: 'https://www.sensetime.com'
