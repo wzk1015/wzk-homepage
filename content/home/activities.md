@@ -31,6 +31,7 @@ Conference Reviewer:
 * ICCV 2023
 * CVPR 2024
 * ECCV 2024
+* NeurIPS 2024
 
 Teaching Assistant:
 
