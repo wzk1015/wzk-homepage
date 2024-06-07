@@ -8,20 +8,19 @@ weight: 6
 authors:
 - Xizhou Zhu*
 - Xue Yang*
-- admin_star
+- admin
 - Hao Li
 - Wenhan Dou
 - Junqi Ge
 - Lewei Lu
 - Yu Qiao
 - Jifeng Dai
-- Le Zhuo
 
 # Author notes (optional)
 author_notes:
-- 
-- 
-- 
+- Equal Contribution
+- Equal Contribution
+- Equal Contribution
 - 
 
 date: "2024-06-06T00:00:00Z"

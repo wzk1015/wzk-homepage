@@ -6,9 +6,9 @@ weight: 3
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Le Zhuo*
-- admin_star
-- Baisen Wang*
+- Le Zhuo
+- admin
+- Baisen Wang
 - Yue Liao
 - Chenxi Bao
 - Stanley Peng
@@ -19,9 +19,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- 
-- 
-- 
+- Equal Contribution
+- Equal Contribution
+- Equal Contribution
 - 
 
 date: "2022-11-22T00:00:00Z"

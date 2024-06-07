@@ -6,9 +6,9 @@ weight: 4
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Hao Li*
-- Xue Yang*
-- admin_star
+- Hao Li
+- Xue Yang
+- admin
 - Xizhou Zhu
 - Jie Zhou
 - Yu Qiao
@@ -19,9 +19,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- 
-- 
-- 
+- Equal Contribution
+- Equal Contribution
+- Equal Contribution
 - 
 
 date: "2023-12-14T00:00:00Z"
