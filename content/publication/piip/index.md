@@ -9,12 +9,13 @@ authors:
 - Xizhou Zhu*
 - Xue Yang*
 - admin_star
-- Hao  Li
+- Hao Li
 - Wenhan Dou
 - Junqi Ge
 - Lewei Lu
 - Yu Qiao
 - Jifeng Dai
+- Le Zhuo
 
 # Author notes (optional)
 author_notes:
