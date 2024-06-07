@@ -18,8 +18,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- Equal Contribution
-- Equal Contribution
+- 
+- 
 - Equal Contribution
 - 
 
