@@ -56,7 +56,7 @@ featured: false
 # - name: 
 #   url: 
 
-url_pdf: ''
+url_pdf: 'https://arxiv.org/abs/2406.04330'
 url_code: 'https://github.com/OpenGVLab/PIIP'
 url_dataset: ''
 url_poster: ''
