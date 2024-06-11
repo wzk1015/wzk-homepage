@@ -55,7 +55,7 @@ links:
 - name: Colab Notebook
   url: https://colab.research.google.com/github/wzk1015/video-bgm-generation/blob/main/CMT.ipynb
 - name: Demo
-  url: https://www.wzk.plus/cmt
+  url: https://wzk1015.github.io/cmt/
 
 url_pdf: 'https://arxiv.org/pdf/2111.08380.pdf'
 url_code: 'https://github.com/wzk1015/video-bgm-generation'
