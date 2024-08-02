@@ -56,6 +56,8 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
+- name: Blog
+  url: https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg
 
 url_pdf: 'https://arxiv.org/abs/2402.07204'
 url_code: ''

@@ -55,6 +55,8 @@ featured: false
 # links:
 # - name: 
 #   url: 
+- name: Blog
+  url: https://zhuanlan.zhihu.com/p/705734540
 
 url_pdf: 'https://arxiv.org/abs/2406.04330'
 url_code: 'https://github.com/OpenGVLab/PIIP'

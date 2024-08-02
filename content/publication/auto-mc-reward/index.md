@@ -56,6 +56,8 @@ featured: false
 links:
 - name: Demo
   url: https://yangxue0827.github.io/auto_mc-reward.html
+- name: Blog
+  url: https://mp.weixin.qq.com/s/P2yCkUKnqYFJiY9bDtppLQ
 
 url_pdf: 'https://arxiv.org/abs/2312.09238'
 url_code: ''
