@@ -10,11 +10,11 @@ headless: false
 # Order that this section appears on the page.
 weight: 1000
 
-title: News
+title: 
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
 #    image: open-book.jpg
 #    image_darken: 1.0
