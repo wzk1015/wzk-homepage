@@ -23,12 +23,8 @@ design:
 #    image_size: cover
 #    text_color_light: false
   spacing:
-    padding: ["20px", "100px", "20px", "100px"]
+    padding: ["50px", "100px", "50px", "100px"]
 ---
 
-<br>
-
 * 2024.7: Our paper on LLM for urban itinerary generation is accepted by **KDD Urban Computing Workshop (UrbComp) 2024**.
-* 2024.2: Our paper on LLM for Minecraft RL agents is accepted by **CVPR 2024**.
-
-<br> 
+* 2024.2: Our paper on LLM for Minecraft RL agents is accepted by **CVPR 2024**. 
