@@ -70,7 +70,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '13:04'
-address_format: zh-cn
+address_format: en-us
 
 # Site features
 
