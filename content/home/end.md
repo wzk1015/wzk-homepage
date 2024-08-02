@@ -5,12 +5,12 @@ widget: blank
 active: true
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
-weight: 200
+weight: 1000
 
-title: Activities
+title: News
 subtitle:
 
 design:
@@ -23,22 +23,13 @@ design:
 #    image_size: cover
 #    text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["50px", "100px", "50px", "100px"]
 ---
 
-Conference Reviewer: 
-
-* ICCV 2023
-* CVPR 2024
-* ECCV 2024
-* NeurIPS 2024
-
-Teaching Assistant:
-
-* Fundamentals of Computers (2021 spring)
-* Software Engineering (2022 spring)
 
 
+<div align="left">
 
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Wf6brS1NSNQMjFibJu7rBYgLXsWuPOJ1UJmQ4zLTQdA"></script>
 
-
+</div>
