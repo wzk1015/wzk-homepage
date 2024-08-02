@@ -1,6 +1,6 @@
 ---
 title: AI Turtle Soup
-summary: ChatGPT for Playing the turtle soup game. AI can create problems, guess and judge.
+summary: AI for playing the turtle soup game: create problems, guess and judge
 tags:
 - Personal
 date: "2023-12-01T00:00:00Z"
@@ -150,5 +150,4 @@ GPT生成题目...
 成功！
 答案: 贝多芬
 ```
-
 

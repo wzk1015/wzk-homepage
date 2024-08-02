@@ -1,6 +1,6 @@
 ---
 title: Pokemon Types PageRank
-summary: Use PageRank to rank the Pokemon types according to the Type Chart
+summary: Use PageRank to rank the Pokemon types
 tags:
 - Personal
 date: "2023-03-14T00:00:00Z"

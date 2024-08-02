@@ -1,6 +1,6 @@
 ---
 title: ReedSailing
-summary: Wechat small program for releasing and discussing activities of Beihang University. Support automatically updating Boya activities
+summary: Wechat small program for releasing campus activities
 tags:
 - Course Project
 date: "2021-05-01T00:00:00Z"

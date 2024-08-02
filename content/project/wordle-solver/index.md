@@ -1,6 +1,6 @@
 ---
 title: Wordle Solver
-summary: Open source solvers for popular game *Wordle* - Welcome to contribute
+summary: Solvers for the popular game Wordle
 tags:
 - Friend
 - Personal
