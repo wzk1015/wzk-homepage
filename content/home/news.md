@@ -10,11 +10,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Activities
+title: News
 subtitle:
 
 design:
-  columns: "3"
+  columns: "2"
   background:
 #    image: open-book.jpg
 #    image_darken: 1.0
