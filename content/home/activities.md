@@ -35,8 +35,8 @@ Conference Reviewer:
 
 Teaching Assistant:
 
-* *Fundamentals of Computers* (2021 spring)
-* *Software Engineering* (2022 spring)
+* Fundamentals of Computers (2021 spring)
+* Software Engineering (2022 spring)
 
 
 
