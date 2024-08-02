@@ -1,5 +1,5 @@
 ---
-title: "Synergizing Spatial Optimization with Large Language Models for Open-Domain Urban Itinerary Planning"
+title: "ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning"
 weight: 5
 
 # Authors
@@ -10,8 +10,10 @@ authors:
 - admin
 - Ao Qu
 - Yihao Yan
-- Kebing Hou
+- Zhaofeng Wu
 - Dingyi Zhuang
+- Jushi Kai
+- Kebing Hou
 - Xiaotong Guo
 - Jinhua Zhao
 - Zhan Zhao
@@ -34,13 +36,13 @@ publishDate: "2024-02-11T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
-publication_short: Preprint
+publication: In *KDD UrbComp 2024* 
+publication_short: In *KDD UrbComp 2024* 
 
-abstract: "In this paper, we for the first time propose the task of Open-domain Urban Itinerary Planning (OUIP) for citywalk, which directly generates itineraries based on users' requests described in natural language. OUIP is different from conventional itinerary planning, which limits users from expressing more detailed needs and hinders true personalization. Recently, large language models (LLMs) have shown potential in handling diverse tasks. However, due to non-real-time information, incomplete knowledge, and insufficient spatial awareness, they are unable to independently deliver a satisfactory user experience in OUIP. Given this, we present ItiNera, an OUIP system that synergizes spatial optimization with Large Language Models (LLMs) to provide services that customize urban itineraries based on users' needs. Specifically, we develop an LLM-based pipeline for extracting and updating POI features to create a user-owned personalized POI database. For each user request, we leverage LLM in cooperation with an embedding-based module for retrieving candidate POIs from the user's POI database. Then, a spatial optimization module is used to order these POIs, followed by LLM crafting a personalized, spatially coherent itinerary. To the best of our knowledge, this study marks the first integration of LLMs to innovate itinerary planning solutions. Extensive experiments on offline datasets and online subjective evaluation have demonstrated the capacities of our system to deliver more responsive and spatially coherent itineraries than current LLM-based solutions. Our system has been deployed in production at the TuTu online travel service and has attracted thousands of users for their urban travel planning."
+abstract: "Citywalk, a recently popular form of urban travel, requires genuine personalization and understanding of fine-grained requests compared to traditional itinerary planning. In this paper, we introduce the novel task of Open-domain Urban Itinerary Planning (OUIP), which generates personalized urban itineraries from user requests in natural language. We then present ITINERA, an OUIP system that integrates spatial optimization with large language models to provide customized urban itineraries based on user needs. This involves decomposing user requests, selecting candidate points of interest (POIs), ordering the POIs based on cluster-aware spatial optimization, and generating the itinerary. Experiments on real-world datasets and the performance of the deployed system demonstrate our system's capacity to deliver personalized and spatially coherent itineraries compared to current solutions."
 
 
 
@@ -56,6 +58,7 @@ featured: false
 # links:
 # - name: Custom Link
 #   url: http://example.org
+links:
 - name: Blog
   url: https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg
 
