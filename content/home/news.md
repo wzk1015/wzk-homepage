@@ -28,13 +28,7 @@ design:
 
 <br>
 
-<br>
-
 * 2024.7: Our paper on LLM for urban itinerary generation is accepted by **KDD Urban Computing Workshop (UrbComp) 2024**.
 * 2024.2: Our paper on LLM for Minecraft RL agents is accepted by **CVPR 2024**.
 
-<br>
-
-<br>
-
- 
+<br> 
