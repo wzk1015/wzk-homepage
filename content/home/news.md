@@ -14,7 +14,7 @@ title: Activities
 subtitle:
 
 design:
-  columns: "1"
+  columns: "3"
   background:
 #    image: open-book.jpg
 #    image_darken: 1.0
@@ -23,7 +23,7 @@ design:
 #    image_size: cover
 #    text_color_light: false
   spacing:
-    padding: ["20px", "50px", "20px", "50px"]
+    padding: ["20px", "100px", "20px", "100px"]
 ---
 
 
