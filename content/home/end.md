@@ -28,7 +28,7 @@ design:
 
 
 
-<div style="width: 20%; align: center">
+<div style="width: 20%; margin: 0 auto; text-align: center;"">
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Wf6brS1NSNQMjFibJu7rBYgLXsWuPOJ1UJmQ4zLTQdA'></script>
 
