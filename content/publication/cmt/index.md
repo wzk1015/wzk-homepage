@@ -9,7 +9,7 @@ authors:
 - Shangzhe Di
 - Zeren Jiang
 - Si Liu
-- **Zhaokai Wang**
+- admin
 - Leyan Zhu
 - Zexin He
 - Hongming Liu
