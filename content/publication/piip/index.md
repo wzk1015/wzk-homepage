@@ -20,7 +20,7 @@ authors:
 author_notes:
 - 
 - 
-- Equal Contribution
+- Co-first author
 - 
 
 date: "2024-06-06T00:00:00Z"

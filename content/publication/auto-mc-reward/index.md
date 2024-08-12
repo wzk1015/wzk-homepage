@@ -21,7 +21,7 @@ authors:
 author_notes:
 - 
 - 
-- Equal Contribution
+- Co-first author
 - 
 
 date: "2023-12-14T00:00:00Z"

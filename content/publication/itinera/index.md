@@ -22,7 +22,7 @@ authors:
 # Author notes (optional)
 author_notes:
 - 
-- Equal Contribution
+- Co-first author
 - 
 - 
 
