@@ -32,7 +32,9 @@ Conference Reviewer:
 * CVPR 2024
 * ECCV 2024
 * NeurIPS 2024
+* EMNLP 2024
 * AAAI 2025
+* ICLR 2025
 
 Teaching Assistant:
 

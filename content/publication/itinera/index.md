@@ -1,5 +1,5 @@
 ---
-title: "ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning"
+title: "Synergizing Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning"
 weight: 5
 
 # Authors
@@ -10,9 +10,7 @@ authors:
 - admin
 - Ao Qu
 - Yihao Yan
-- Zhaofeng Wu
 - Dingyi Zhuang
-- Jushi Kai
 - Kebing Hou
 - Xiaotong Guo
 - Jinhua Zhao
@@ -39,8 +37,8 @@ publishDate: "2024-02-11T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *KDD UrbComp 2024* 
-publication_short: In *KDD UrbComp 2024* 
+publication: In *KDD UrbComp 2024* **(Best Paper Award)**
+publication_short: In *KDD UrbComp 2024* **(Best Paper Award)**
 
 abstract: "Citywalk, a recently popular form of urban travel, requires genuine personalization and understanding of fine-grained requests compared to traditional itinerary planning. In this paper, we introduce the novel task of Open-domain Urban Itinerary Planning (OUIP), which generates personalized urban itineraries from user requests in natural language. We then present ITINERA, an OUIP system that integrates spatial optimization with large language models to provide customized urban itineraries based on user needs. This involves decomposing user requests, selecting candidate points of interest (POIs), ordering the POIs based on cluster-aware spatial optimization, and generating the itinerary. Experiments on real-world datasets and the performance of the deployed system demonstrate our system's capacity to deliver personalized and spatially coherent itineraries compared to current solutions."
 
