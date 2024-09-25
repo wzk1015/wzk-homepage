@@ -26,5 +26,6 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
+* 2024.2: ⭐️ Our paper on efficient vision backbone is accepted by **NeurIPS 2024** as **Spotlight**. 
 * 2024.8: 🏆 Our paper on LLM for urban itinerary generation is awarded **Best Paper Award** of **KDD Urban Computing Workshop (UrbComp) 2024**.
 * 2024.2: ⭐️ Our paper on LLM for Minecraft RL agents is accepted by **CVPR 2024**. 
