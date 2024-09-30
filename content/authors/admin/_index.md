@@ -1,7 +1,7 @@
 ---
 title: Zhaokai Wang
 role: (王肇凯)
-avatar_filename: avatar.jpg
+avatar_filename: avatar3.jpg
 bio: 
 interests:
   - Artificial Intelligence
