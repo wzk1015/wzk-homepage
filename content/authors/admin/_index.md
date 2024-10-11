@@ -41,13 +41,13 @@ organizations:
 education:
   courses:
     - course: Ph.D. (joint program with Shanghai AI Lab)
-      institution: Shanghai Jiao Tong University
+      institution: Department of Electronic Enginerring, Shanghai Jiao Tong University
       year: "2022-"
     - course: B.A. in Economics (double major)
-      institution: Peking University
+      institution: National School of Development, Peking University
       year: "2019-2022"
     - course: B.Eng. in Computer Science
-      institution: Beihang University
+      institution: Shenyuan Honors College, Beihang University
       year: "2018-2022"
 email: "self@wzk.plus"
 superuser: true
