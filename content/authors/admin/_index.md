@@ -40,10 +40,10 @@ organizations:
     url: https://www.shlab.org.cn/
 education:
   courses:
-    - course: Ph.D. (joint program with Shanghai AI Lab)
-      institution: Department of Electronic Enginerring, Shanghai Jiao Tong University
+    - course: Ph.D. (Joint Program with Shanghai AI Lab)
+      institution: Department of EE, Shanghai Jiao Tong University
       year: "2022-"
-    - course: B.A. in Economics (double major)
+    - course: B.A. in Economics (Double Major)
       institution: National School of Development, Peking University
       year: "2019-2022"
     - course: B.Eng. in Computer Science
