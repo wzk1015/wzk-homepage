@@ -40,7 +40,7 @@ design:
 
   Preprint
 
-  [[Paper]](https://arxiv.org/abs/)
+  [[Paper]](https://arxiv.org/abs/2410.16162)
 
 * Parameter-Inverted Image Pyramid Networks
 
