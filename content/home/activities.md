@@ -14,7 +14,7 @@ title: Activities
 subtitle:
 
 design:
-  columns: "1"
+  columns: "2"
   background:
 #    image: open-book.jpg
 #    image_darken: 1.0
