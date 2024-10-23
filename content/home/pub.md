@@ -24,7 +24,7 @@ design:
 <div class="publication-list">
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="mono-internvl.png" alt="Mono-InternVL thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/mono-internvl.png" alt="Mono-InternVL thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training</strong></p>
@@ -36,7 +36,7 @@ design:
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
@@ -47,7 +47,7 @@ design:
   </div>
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="piip.png" alt="PIIP thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/piip.png" alt="PIIP thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>Parameter-Inverted Image Pyramid Networks</strong></p>
@@ -60,7 +60,7 @@ design:
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="itinera1.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/itinera1.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning</strong></p>
@@ -72,7 +72,7 @@ design:
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="itinera2.jpg" alt="Synergizing Spatial Optimization thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/itinera2.jpg" alt="Synergizing Spatial Optimization thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>Synergizing Spatial Optimization with Large Language Models for Open-Domain Urban Itinerary Planning</strong></p>
@@ -84,7 +84,7 @@ design:
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="auto_mc_reward.png" alt="Auto MC-Reward thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/auto_mc_reward.png" alt="Auto MC-Reward thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft</strong></p>
@@ -96,7 +96,7 @@ design:
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="musprod.png" alt="Video Background Music Generation thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/musprod.png" alt="Video Background Music Generation thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>Video Background Music Generation: Dataset, Method and Evaluation</strong></p>
@@ -108,7 +108,7 @@ design:
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="cmt.png" alt="Video Background Music Generation with Controllable Music Transformer thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/cmt.png" alt="Video Background Music Generation with Controllable Music Transformer thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>Video Background Music Generation with Controllable Music Transformer</strong></p>
@@ -120,7 +120,7 @@ design:
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 1; max-width: 500px;">
-      <img src="cnmt.png" alt="Confidence-aware Non-repetitive Multimodal Transformers thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/cnmt.png" alt="Confidence-aware Non-repetitive Multimodal Transformers thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
       <p><strong>Confidence-aware Non-repetitive Multimodal Transformers for TextCaps</strong></p>
