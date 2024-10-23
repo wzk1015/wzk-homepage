@@ -5,7 +5,7 @@ tags:
 - Friend
 - Personal
 date: "2020-12-01T00:00:00Z"
-weight: 8
+weight: 6
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

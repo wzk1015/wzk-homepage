@@ -4,7 +4,7 @@ summary: Use PageRank to rank the Pokemon types
 tags:
 - Personal
 date: "2023-03-14T00:00:00Z"
-weight: 6
+weight: 7
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
