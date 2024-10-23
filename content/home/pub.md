@@ -21,6 +21,9 @@ design:
 
 ---
 
+<br>
+<br>
+
 <div class="publication-list">
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
