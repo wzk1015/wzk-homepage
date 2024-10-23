@@ -26,9 +26,14 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-* Conference Reviewer: ICCV 2023, CVPR 2024, ECCV 2024, NeurIPS 2024, EMNLP 2024, AAAI 2025, ICLR 2025
+Conference Reviewer:
 
-* Teaching Assistant: Fundamentals of Computers (2021 spring), Software Engineering (2022 spring)
+* ICCV 2023, CVPR 2024, ECCV 2024, NeurIPS 2024, EMNLP 2024, AAAI 2025, ICLR 2025
+
+Teaching Assistant
+
+* Fundamentals of Computers (2021 spring)
+* Software Engineering (2022 spring)
 
 
 

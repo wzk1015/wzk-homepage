@@ -26,6 +26,8 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
+{{< figure src="/content/publication/mono-internvl/featured.png" title="Mono-InternVL thumbnail" lightbox="true" alt="Mono-InternVL" width="100px" >}}
+
 * Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training
 
   *Gen Luo\*, Xue Yang\*, Wenhan Dou\*, **Zhaokai Wang\***, Jifeng Dai, Yu Qiao, Xizhou Zhu*
@@ -47,7 +49,7 @@ design:
   *Xizhou Zhu\*, Xue Yang\*, **Zhaokai Wang\***, Hao Li, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai*
 
   NeurIPS 2024 **(Spotlight)**
-  
+
   [[Paper]](https://arxiv.org/abs/2406.04330) [[Code]](https://github.com/OpenGVLab/PIIP) [[Blog]](https://zhuanlan.zhihu.com/p/705734540)
 
 * ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning
@@ -68,18 +70,18 @@ design:
 * Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft
 
   *Hao Li\*, Xue Yang\*, **Zhaokai Wang\***, Xizhou Zhu, Jie Zhou, Yu Qiao, Xiaogang Wang, Hongsheng Li, Lewei Lu, Jifeng Dai*
-  
+
   CVPR 2024
-  
+
   [[Paper]](https://arxiv.org/abs/2312.09238) [[Project Page]](https://yangxue0827.github.io/auto_mc-reward.html) [[Blog]](https://mp.weixin.qq.com/s/P2yCkUKnqYFJiY9bDtppLQ)
 
 * Video Background Music Generation: Dataset, Method and Evaluation
   *Le Zhuo\*, **Zhaokai Wang\***, Baisen Wang\*, Yue Liao, Chenxi Bao, Stanley Peng, Songhao Han, Aixi Zhang, Fei Fang, Si Liu*
 
   ICCV 2023
-  
+
   [[Paper]](https://arxiv.org/abs/2211.11248) [[Demo]](https://drive.google.com/drive/folders/1ASY44xqWGZgKkcHhpzWlOhIbUIMe_epQ?usp=sharing)
-  
+
 * Video Background Music Generation with Controllable Music Transformer
 
   *Shangzhe Di, Zeren Jiang, Si Liu, **Zhaokai Wang**, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng Yan*
@@ -91,7 +93,7 @@ design:
 * Confidence-aware Non-repetitive Multimodal Transformers for TextCaps
 
   ***Zhaokai Wang**, Renda Bao, Qi Wu, Si Liu*
-  
+
   AAAI 2021
-  
+
   [[Paper]](https://arxiv.org/abs/2012.03662)  [[Code]](https://github.com/wzk1015/CNMT)
