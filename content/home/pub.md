@@ -23,7 +23,7 @@ design:
 
 <div class="publication-list">
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/mono-internvl.png" alt="Mono-InternVL thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
@@ -35,7 +35,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
@@ -46,7 +46,7 @@ design:
     </div>
   </div>
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/piip.png" alt="PIIP thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
@@ -59,7 +59,7 @@ design:
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/itinera1.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
@@ -71,7 +71,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/itinera2.jpg" alt="Synergizing Spatial Optimization thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
@@ -83,7 +83,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/auto_mc_reward.png" alt="Auto MC-Reward thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
@@ -95,7 +95,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/musprod.png" alt="Video Background Music Generation thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
@@ -107,7 +107,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/cmt.png" alt="Video Background Music Generation with Controllable Music Transformer thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
@@ -119,7 +119,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 1; max-width: 500px;">
+    <div class="publication-image" style="flex: 1; max-width: 800px;">
       <img src="pub_imgs/cnmt.png" alt="Confidence-aware Non-repetitive Multimodal Transformers thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 3; margin-left: 20px;">
