@@ -129,5 +129,3 @@ design:
       <p><a href="https://arxiv.org/abs/2012.03662">[Paper]</a> <a href="https://github.com/wzk1015/CNMT">[Code]</a></p>
     </div>
   </div>
-
-

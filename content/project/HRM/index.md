@@ -4,6 +4,7 @@ summary: An architecture design of CPU based on the game *Human Resource Machine
 tags:
 - Personal
 date: "2020-05-01T00:00:00Z"
+weight: 2
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

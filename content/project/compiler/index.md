@@ -4,6 +4,7 @@ summary: C0 to MIPS Compiler
 tags:
 - Course Project
 date: "2020-12-01T00:00:00Z"
+weight: 5
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

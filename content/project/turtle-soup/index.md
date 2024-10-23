@@ -4,6 +4,7 @@ summary: "AI for playing the turtle soup game: create problems, guess and judge"
 tags:
 - Personal
 date: "2023-12-01T00:00:00Z"
+weight: 7
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

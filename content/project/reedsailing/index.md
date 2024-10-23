@@ -4,6 +4,7 @@ summary: Wechat small program for releasing campus activities
 tags:
 - Course Project
 date: "2021-05-01T00:00:00Z"
+weight: 3
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

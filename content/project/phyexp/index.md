@@ -4,6 +4,7 @@ summary: Wechat small program for Physical Experiment course of Beihang Universi
 tags:
 - Personal
 date: "2020-08-01T00:00:00Z"
+weight: 4
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
