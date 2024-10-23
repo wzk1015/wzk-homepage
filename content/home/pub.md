@@ -26,7 +26,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/mono-internvl.png" alt="Mono-InternVL thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training</strong></p>
       <p><em>Gen Luo*, Xue Yang*, Wenhan Dou*, <strong>Zhaokai Wang*</strong>, Jifeng Dai, Yu Qiao, Xizhou Zhu</em></p>
       <p>Preprint</p>
@@ -38,7 +38,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
       <p><em>Yihong Tang*, Ao Qu*, <strong>Zhaokai Wang*</strong>, Dingyi Zhuang*, Zhaofeng Wu, Wei Ma, Shenhao Wang, Yunhan Zheng, Zhan Zhao, Jinhua Zhao</em></p>
       <p>Preprint</p>
@@ -49,7 +49,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/piip.png" alt="PIIP thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Parameter-Inverted Image Pyramid Networks</strong></p>
       <p><em>Xizhou Zhu*, Xue Yang*, <strong>Zhaokai Wang*</strong>, Hao Li, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
       <p>NeurIPS 2024 <strong>(Spotlight)</strong></p>
@@ -62,7 +62,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/itinera1.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning</strong></p>
       <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Zhaofeng Wu, Dingyi Zhuang, Jushi Kai, Kebing Hou, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
       <p>EMNLP 2024</p>
@@ -74,7 +74,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/itinera2.jpg" alt="Synergizing Spatial Optimization thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Synergizing Spatial Optimization with Large Language Models for Open-Domain Urban Itinerary Planning</strong></p>
       <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Kebing Hou, Dingyi Zhuang, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
       <p>KDD UrbComp 2024 <strong>(Best Paper Award)</strong></p>
@@ -86,7 +86,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/auto_mc_reward.png" alt="Auto MC-Reward thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft</strong></p>
       <p><em>Hao Li*, Xue Yang*, <strong>Zhaokai Wang*</strong>, Xizhou Zhu, Jie Zhou, Yu Qiao, Xiaogang Wang, Hongsheng Li, Lewei Lu, Jifeng Dai</em></p>
       <p>CVPR 2024</p>
@@ -98,7 +98,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/musprod.png" alt="Video Background Music Generation thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Video Background Music Generation: Dataset, Method and Evaluation</strong></p>
       <p><em>Le Zhuo*, <strong>Zhaokai Wang*</strong>, Baisen Wang*, Yue Liao, Chenxi Bao, Stanley Peng, Songhao Han, Aixi Zhang, Fei Fang, Si Liu</em></p>
       <p>ICCV 2023</p>
@@ -110,7 +110,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/cmt.png" alt="Video Background Music Generation with Controllable Music Transformer thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Video Background Music Generation with Controllable Music Transformer</strong></p>
       <p><em>Shangzhe Di, Zeren Jiang, Si Liu, <strong>Zhaokai Wang</strong>, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng Yan</em></p>
       <p>ACM MM 2021 <strong>(Best Paper Award)</strong></p>
@@ -122,7 +122,7 @@ design:
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/cnmt.png" alt="Confidence-aware Non-repetitive Multimodal Transformers thumbnail" style="width: 100%; height: auto;" />
     </div>
-    <div class="publication-text" style="flex: 3; margin-left: 20px;">
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Confidence-aware Non-repetitive Multimodal Transformers for TextCaps</strong></p>
       <p><em><strong>Zhaokai Wang</strong>, Renda Bao, Qi Wu, Si Liu</em></p>
       <p>AAAI 2021</p>
