@@ -14,7 +14,7 @@ title: Publications
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
 #    image: open-book.jpg
 #    image_darken: 1.0
@@ -47,6 +47,7 @@ design:
   *Xizhou Zhu\*, Xue Yang\*, **Zhaokai Wang\***, Hao Li, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai*
 
   NeurIPS 2024 **(Spotlight)**
+  
   [[Paper]](https://arxiv.org/abs/2406.04330) [[Code]](https://github.com/OpenGVLab/PIIP) [[Blog]](https://zhuanlan.zhihu.com/p/705734540)
 
 * ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning
