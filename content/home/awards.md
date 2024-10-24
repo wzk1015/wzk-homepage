@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 170
 
 title: Awards and Honors
 subtitle:
