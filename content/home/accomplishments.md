@@ -59,7 +59,7 @@ item:
   url: "https://news.buaa.edu.cn/info/1005/54971.htm"
 - certificate_url: "https://www.wzk.plus/award_imgs/ijcai.jpg"
   date_end: ""
-  date_start: "2021-8-21"
+  date_start: "2021-08-21"
   description: ""
   organization: IJCAI Video Competition
   organization_url: ""
@@ -67,7 +67,7 @@ item:
   url: "https://ijcai-21.org/video-competition-winners/"
 - certificate_url: "https://www.wzk.plus/award_imgs/textcaps.jpg"
   date_end: ""
-  date_start: "2020-6-13"
+  date_start: "2020-06-13"
   description: ""
   organization: CVPR TextCaps Challenge
   organization_url: ""
