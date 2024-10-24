@@ -63,7 +63,7 @@ item:
   description: ""
   organization: IJCAI Video Competition
   organization_url: ""
-  title: **Best Video Award**
+  title: "**Best Video Award**"
   url: "https://ijcai-21.org/video-competition-winners/"
 - certificate_url: "https://www.wzk.plus/award_imgs/textcaps.jpg"
   date_end: ""
