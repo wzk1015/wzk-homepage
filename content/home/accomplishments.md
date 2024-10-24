@@ -8,10 +8,11 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 165
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+# title: 'Accomplish&shy;ments'
+title: 'Awards and Honors'
 subtitle:
 
 # Date format
@@ -24,30 +25,54 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://www.wzk.plus/award_imgs/urbcomp.jpg
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2024-08-26"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
+  organization: KDD Urban Computing Workshop (UrbComp)
+  organization_url: ""
+  title: **Best Paper Award**
+  url: "http://urban-computing.com/urbcomp2024/index.html"
+- certificate_url: https://startup.aliyun.com/special/aihackathon3
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+  date_start: "2024-01-15"
   description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  organization: Alibaba Creator@AI Entrepreneur Hackathon Final
+  organization_url: ""
+  title: Best Zero to One Award
+  url: "https://startup.aliyun.com/special/aihackathon3"
+- certificate_url: ""
+  date_end: ""
+  date_start: "2022-07-01"
+  description: ""
+  organization: Beihang University
+  organization_url: ""
+  title: Outstanding Graduate
   url: ""
+- certificate_url: "https://www.wzk.plus/award_imgs/mm.jpg"
+  date_end: ""
+  date_start: "2021-10-22"
+  description: ""
+  organization: ACM Multimedia
+  organization_url: ""
+  title: **Best Paper Award**
+  url: "https://news.buaa.edu.cn/info/1005/54971.htm"
+- certificate_url: "https://www.wzk.plus/award_imgs/ijcai.jpg"
+  date_end: ""
+  date_start: "2021-8-21"
+  description: ""
+  organization: IJCAI Video Competition
+  organization_url: ""
+  title: **Best Video Award**
+  url: "https://ijcai-21.org/video-competition-winners/"
+- certificate_url: "https://www.wzk.plus/award_imgs/textcaps.jpg"
+  date_end: ""
+  date_start: "2020-6-13"
+  description: ""
+  organization: CVPR TextCaps Challenge
+  organization_url: ""
+  title: First Place
+  url: "https://www.youtube.com/watch?v=9utGevwrSj8&t=287s"
 
 design:
   columns: '2' 
