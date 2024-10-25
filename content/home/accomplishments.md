@@ -33,6 +33,14 @@ item:
   organization_url: ""
   title: "**Best Paper Award**"
   url: "http://urban-computing.com/urbcomp2024/index.html"
+- certificate_url: "https://www.wzk.plus/award_imgs/mm.jpg"
+  date_end: ""
+  date_start: "2021-10-22"
+  description: ""
+  organization: ACM Multimedia
+  organization_url: ""
+  title: "**Best Paper Award**"
+  url: "https://news.buaa.edu.cn/info/1005/54971.htm"
 - certificate_url: https://startup.aliyun.com/special/aihackathon3
   date_end: ""
   date_start: "2024-01-15"
@@ -49,14 +57,6 @@ item:
   organization_url: ""
   title: Outstanding Graduate
   url: ""
-- certificate_url: "https://www.wzk.plus/award_imgs/mm.jpg"
-  date_end: ""
-  date_start: "2021-10-22"
-  description: ""
-  organization: ACM Multimedia
-  organization_url: ""
-  title: "**Best Paper Award**"
-  url: "https://news.buaa.edu.cn/info/1005/54971.htm"
 - certificate_url: "https://www.wzk.plus/award_imgs/ijcai.jpg"
   date_end: ""
   date_start: "2021-08-21"
