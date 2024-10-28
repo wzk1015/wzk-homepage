@@ -55,7 +55,7 @@ design:
       <p><strong>Parameter-Inverted Image Pyramid Networks</strong></p>
       <p><em>Xizhou Zhu*, Xue Yang*, <strong>Zhaokai Wang*</strong>, Hao Li, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
       <p>NeurIPS 2024 <strong>(Spotlight)</strong></p>
-      <p><a href="https://arxiv.org/abs/2406.04330">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/705734540">[Post]</a> <a href="https://www.wzk.plus/uploads/slides/PIIP_slides.pdf">[Slides]</a> <a href="https://youtu.be/Kdh3CNp8bfg">[Video]</a></p>
+      <p><a href="https://arxiv.org/abs/2406.04330">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/705734540">[Post]</a> <a href="https://www.wzk.plus/slides/PIIP_slides.pdf">[Slides]</a> <a href="https://youtu.be/Kdh3CNp8bfg">[Video]</a></p>
     </div>
   </div>
 
