@@ -70,7 +70,7 @@ design:
       <p><strong>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning</strong></p>
       <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Zhaofeng Wu, Dingyi Zhuang, Jushi Kai, Kebing Hou, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
       <p>EMNLP 2024</p>
-      <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a></p>
+      <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
 
@@ -82,7 +82,7 @@ design:
       <p><strong>Synergizing Spatial Optimization with Large Language Models for Open-Domain Urban Itinerary Planning</strong></p>
       <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Kebing Hou, Dingyi Zhuang, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
       <p>KDD UrbComp 2024 <strong>(Best Paper Award)</strong></p>
-      <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a></p>
+      <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
 
