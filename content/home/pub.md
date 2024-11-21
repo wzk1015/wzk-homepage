@@ -31,7 +31,7 @@ design:
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training</strong></p>
-      <p><em>Gen Luo*, Xue Yang*, Wenhan Dou*, <strong>Zhaokai Wang*</strong>, Jifeng Dai, Yu Qiao, Xizhou Zhu</em></p>
+      <p><em>Gen Luo*, Xue Yang*, Wenhan Dou*, <strong>Zhaokai Wang*</strong>, Jiawen Liu, Jifeng Dai, Yu Qiao, Xizhou Zhu</em></p>
       <p>Preprint</p>
       <p><a href="https://arxiv.org/abs/2410.08202">[Paper]</a> <a href="https://internvl.github.io/blog/2024-10-10-Mono-InternVL/">[Project Page]</a> <a href="https://huggingface.co/OpenGVLab/Mono-InternVL-2B">[Code]</a> <a href="https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg">[Post]</a></p>
     </div>
@@ -54,10 +54,11 @@ design:
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Parameter-Inverted Image Pyramid Networks</strong></p>
       <p><em>Xizhou Zhu*, Xue Yang*, <strong>Zhaokai Wang*</strong>, Hao Li, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
-      <p>NeurIPS 2024 <strong>(Spotlight)</strong></p>
+      <p>NeurIPS 2024 <strong>Spotlight (Top 2.5%)</strong></p>
       <p><a href="https://arxiv.org/abs/2406.04330">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/705734540">[Post]</a> <a href="https://www.wzk.plus/slides/PIIP_slides.pdf">[Slides]</a> <a href="https://youtu.be/Kdh3CNp8bfg">[Video]</a></p>
     </div>
   </div>
+
 
 
 
@@ -73,7 +74,6 @@ design:
       <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/itinera2.jpg" alt="Synergizing Spatial Optimization thumbnail" style="width: 100%; height: auto;" />
@@ -81,10 +81,11 @@ design:
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Synergizing Spatial Optimization with Large Language Models for Open-Domain Urban Itinerary Planning</strong></p>
       <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Kebing Hou, Dingyi Zhuang, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
-      <p>KDD UrbComp 2024 <strong>(Best Paper Award)</strong></p>
+      <p>KDD UrbComp 2024 <strong>Best Paper Award</strong></p>
       <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
+
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
@@ -109,7 +110,6 @@ design:
       <p><a href="https://arxiv.org/abs/2211.11248">[Paper]</a> <a href="https://drive.google.com/drive/folders/1ASY44xqWGZgKkcHhpzWlOhIbUIMe_epQ?usp=sharing">[Demo]</a></p>
     </div>
   </div>
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/cmt.png" alt="Video Background Music Generation with Controllable Music Transformer thumbnail" style="width: 100%; height: auto;" />
@@ -117,10 +117,11 @@ design:
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Video Background Music Generation with Controllable Music Transformer</strong></p>
       <p><em>Shangzhe Di, Zeren Jiang, Si Liu, <strong>Zhaokai Wang</strong>, Leyan Zhu, Zexin He, Hongming Liu, Shuicheng Yan</em></p>
-      <p>ACM MM 2021 <strong>(Best Paper Award)</strong></p>
+      <p>ACM MM 2021 <strong>Best Paper Award (1/542)</strong></p>
       <p><a href="https://arxiv.org/abs/2111.08380">[Paper]</a> <a href="https://wzk1015.github.io/cmt/">[Project Page]</a> <a href="https://github.com/wzk1015/video-bgm-generation">[Code]</a> <a href="https://colab.research.google.com/github/wzk1015/video-bgm-generation/blob/main/CMT.ipynb">[Demo]</a> <a href="https://mp.weixin.qq.com/s/2aFgIq4-zA9tlgGSNuxzWg">[Post]</a> <a href="https://news.buaa.edu.cn/info/1005/54971.htm">[News]</a></p>
     </div>
   </div>
+
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
