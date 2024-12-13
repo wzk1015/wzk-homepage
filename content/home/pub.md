@@ -36,6 +36,8 @@ design:
       <p><a href="https://arxiv.org/abs/2410.08202">[Paper]</a> <a href="https://internvl.github.io/blog/2024-10-10-Mono-InternVL/">[Project Page]</a> <a href="https://huggingface.co/OpenGVLab/Mono-InternVL-2B">[Code]</a> <a href="https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg">[Post]</a></p>
     </div>
   </div>
+  
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
@@ -47,6 +49,35 @@ design:
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
+  
+
+  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex: 2; max-width: 800px;">
+      <img src="pub_imgs/vmb.png" alt="VMB thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
+      <p><strong>Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation</strong></p>
+      <p><em>Baisen Wang, Le Zhuo, <strong>Zhaokai Wang</strong>, Chenxi Bao, Chengjing Wu, Xuecheng Nie, Jiao Dai, Jizhong Han, Yue Liao, Si Liu</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a></p>
+    </div>
+  </div>
+  
+
+  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex: 2; max-width: 800px;">
+      <img src="pub_imgs/synergen.jpg" alt="SynerGen-VL thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
+      <p><strong>SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding</strong></p>
+      <p><em>Hao Li, Changyao Tian, Jie Shao, Xizhou Zhu, <strong>Zhaokai Wang</strong>, Jinguo Zhu, Wenhan Dou, Xiaogang Wang, Hongsheng Li, Lewei Lu, Jifeng Dai</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/abs/2412.09604">[Paper]</a></p>
+    </div>
+  </div>
+
+
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/piip.png" alt="PIIP thumbnail" style="width: 100%; height: auto;" />
@@ -61,8 +92,6 @@ design:
 
 
 
-
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/itinera1.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
@@ -74,9 +103,11 @@ design:
       <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
+  
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
-      <img src="pub_imgs/itinera2.jpg" alt="Synergizing Spatial Optimization thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/itinera2.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Synergizing Spatial Optimization with Large Language Models for Open-Domain Urban Itinerary Planning</strong></p>
@@ -85,6 +116,7 @@ design:
       <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
+
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -99,9 +131,10 @@ design:
     </div>
   </div>
 
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
-      <img src="pub_imgs/musprod.png" alt="Video Background Music Generation thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/musprod.png" alt="Musprod thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Video Background Music Generation: Dataset, Method and Evaluation</strong></p>
@@ -110,9 +143,12 @@ design:
       <p><a href="https://arxiv.org/abs/2211.11248">[Paper]</a> <a href="https://drive.google.com/drive/folders/1ASY44xqWGZgKkcHhpzWlOhIbUIMe_epQ?usp=sharing">[Demo]</a></p>
     </div>
   </div>
+
+
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
-      <img src="pub_imgs/cmt.png" alt="Video Background Music Generation with Controllable Music Transformer thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/cmt.png" alt="CMT thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Video Background Music Generation with Controllable Music Transformer</strong></p>
@@ -123,9 +159,10 @@ design:
   </div>
 
 
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
-      <img src="pub_imgs/cnmt.png" alt="Confidence-aware Non-repetitive Multimodal Transformers thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/cnmt.png" alt="CNMT thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>Confidence-aware Non-repetitive Multimodal Transformers for TextCaps</strong></p>
