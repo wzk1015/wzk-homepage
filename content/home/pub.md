@@ -25,6 +25,18 @@ design:
 <br>
 
 <div class="publication-list">
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex: 2; max-width: 800px;">
+      <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
+      <p><strong>Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding</strong></p>
+      <p><em><strong>Zhaokai Wang</strong>, Xizhou Zhu, Xue Yang, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/abs/2501.xxxxx">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
+    </div>
+  </div>
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/mono-internvl.png" alt="Mono-InternVL thumbnail" style="width: 100%; height: auto;" />
