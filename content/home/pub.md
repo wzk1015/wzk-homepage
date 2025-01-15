@@ -33,7 +33,7 @@ design:
       <p><strong>Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding</strong></p>
       <p><em><strong>Zhaokai Wang</strong>, Xizhou Zhu, Xue Yang, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
       <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2501.xxxxx">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
+      <p><a href="https://arxiv.org/abs/2501.07783">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
     </div>
   </div>
 
