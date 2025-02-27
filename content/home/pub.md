@@ -36,20 +36,6 @@ design:
       <p><a href="https://arxiv.org/abs/2501.07783">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
     </div>
   </div>
-
-  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
-      <img src="pub_imgs/mono-internvl.png" alt="Mono-InternVL thumbnail" style="width: 100%; height: auto;" />
-    </div>
-    <div class="publication-text" style="flex: 4; margin-left: 20px;">
-      <p><strong>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training</strong></p>
-      <p><em>Gen Luo*, Xue Yang*, Wenhan Dou*, <strong>Zhaokai Wang*</strong>, Jiawen Liu, Jifeng Dai, Yu Qiao, Xizhou Zhu</em></p>
-      <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2410.08202">[Paper]</a> <a href="https://internvl.github.io/blog/2024-10-10-Mono-InternVL/">[Project Page]</a> <a href="https://huggingface.co/OpenGVLab/Mono-InternVL-2B">[Code]</a> <a href="https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg">[Post]</a></p>
-    </div>
-  </div>
-  
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
@@ -61,8 +47,6 @@ design:
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
-  
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/vmb.png" alt="VMB thumbnail" style="width: 100%; height: auto;" />
@@ -71,10 +55,21 @@ design:
       <p><strong>Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation</strong></p>
       <p><em>Baisen Wang, Le Zhuo, <strong>Zhaokai Wang</strong>, Chenxi Bao, Chengjing Wu, Xuecheng Nie, Jiao Dai, Jizhong Han, Yue Liao, Si Liu</em></p>
       <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a></p>
+      <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a></p> <a href="https://wzk1015.github.io/vmb/">[Demo]</a></p>
     </div>
   </div>
-  
+
+  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex: 2; max-width: 800px;">
+      <img src="pub_imgs/mono-internvl.png" alt="Mono-InternVL thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
+      <p><strong>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training</strong></p>
+      <p><em>Gen Luo*, Xue Yang*, Wenhan Dou*, <strong>Zhaokai Wang*</strong>, Jiawen Liu, Jifeng Dai, Yu Qiao, Xizhou Zhu</em></p>
+      <p>CVPR 2025</p>
+      <p><a href="https://arxiv.org/abs/2410.08202">[Paper]</a> <a href="https://internvl.github.io/blog/2024-10-10-Mono-InternVL/">[Project Page]</a> <a href="https://huggingface.co/OpenGVLab/Mono-InternVL-2B">[Code]</a> <a href="https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg">[Post]</a></p>
+    </div>
+  </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
@@ -83,12 +78,10 @@ design:
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>SynerGen-VL: Towards Synergistic Image Understanding and Generation with Vision Experts and Token Folding</strong></p>
       <p><em>Hao Li, Changyao Tian, Jie Shao, Xizhou Zhu, <strong>Zhaokai Wang</strong>, Jinguo Zhu, Wenhan Dou, Xiaogang Wang, Hongsheng Li, Lewei Lu, Jifeng Dai</em></p>
-      <p>Preprint</p>
+      <p>CVPR 2025</p>
       <p><a href="https://arxiv.org/abs/2412.09604">[Paper]</a></p>
     </div>
   </div>
-
-
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
