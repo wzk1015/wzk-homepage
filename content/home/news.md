@@ -26,7 +26,7 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
-* 2025.2: ⭐️ Our papers [Mono-InternVL](https://arxiv.org/abs/2410.08202) and [SynerGen-VL](https://arxiv.org/pdf/2412.09604) are accepted by **CVPR 2025**.
+* 2025.2: ⭐️ Our papers [Mono-InternVL](https://arxiv.org/abs/2410.08202) and [SynerGen-VL](https://arxiv.org/abs/2412.09604) on encoder-free MLLMs are accepted by **CVPR 2025**.
 * 2024.10: ⭐️ Our paper [ItiNera](https://arxiv.org/abs/2402.07204) on LLM for urban itinerary generation is accepted by **EMNLP 2024**.
 * 2024.9: ⭐️ Our paper [PIIP](https://arxiv.org/abs/2406.04330) on efficient vision backbone is accepted by **NeurIPS 2024** as **Spotlight**. 
 * 2024.8: 🏆 Our paper [ItiNera](http://urban-computing.com/urbcomp2024/accept/paper_1.pdf) on LLM for urban itinerary generation is awarded the **Best Paper Award** of **KDD Urban Computing Workshop (UrbComp) 2024!**
