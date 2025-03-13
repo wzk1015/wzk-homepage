@@ -10,7 +10,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 100
 
-title: Publications
+title: Selected Publications
 subtitle:
 
 design:
@@ -67,7 +67,7 @@ design:
       <p><strong>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training</strong></p>
       <p><em>Gen Luo*, Xue Yang*, Wenhan Dou*, <strong>Zhaokai Wang*</strong>, Jiawen Liu, Jifeng Dai, Yu Qiao, Xizhou Zhu</em></p>
       <p>CVPR 2025</p>
-      <p><a href="https://arxiv.org/abs/2410.08202">[Paper]</a> <a href="https://internvl.github.io/blog/2024-10-10-Mono-InternVL/">[Project Page]</a> <a href="https://huggingface.co/OpenGVLab/Mono-InternVL-2B">[Code]</a> <a href="https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg">[Post]</a></p>
+      <p><a href="https://arxiv.org/abs/2410.08202">[Paper]</a> <a href="https://internvl.github.io/blog/2024-10-10-Mono-InternVL/">[Project Page]</a> <a href="https://github.com/OpenGVLab/Mono-InternVL">[Code]</a> <a href="https://huggingface.co/collections/OpenGVLab/mono-internvl-6707cb402afb22f1e29f4d2b">[Model]</a> <a href="https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg">[Post]</a></p>
     </div>
   </div>
 
@@ -96,31 +96,18 @@ design:
   </div>
 
 
-
-  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
-      <img src="pub_imgs/itinera1.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
-    </div>
-    <div class="publication-text" style="flex: 4; margin-left: 20px;">
-      <p><strong>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning</strong></p>
-      <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Zhaofeng Wu, Dingyi Zhuang, Jushi Kai, Kebing Hou, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
-      <p>EMNLP 2024</p>
-      <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
-    </div>
-  </div>
-  
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/itinera2.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
-      <p><strong>Synergizing Spatial Optimization with Large Language Models for Open-Domain Urban Itinerary Planning</strong></p>
-      <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Kebing Hou, Dingyi Zhuang, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
-      <p>KDD UrbComp 2024 <strong>Best Paper Award</strong></p>
+      <p><strong>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning</strong></p>
+      <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Zhaofeng Wu, Dingyi Zhuang, Jushi Kai, Kebing Hou, Xiaotong Guo, Han Zheng, Tiange Luo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
+      <p>KDD UrbComp 2024 <strong>Best Paper Award</strong> & EMNLP 2024</p>
       <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
+
 
 
 
