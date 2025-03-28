@@ -25,6 +25,7 @@ design:
 <br>
 
 <div class="publication-list">
+
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
@@ -38,6 +39,19 @@ design:
   </div>
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
+      <img src="pub_imgs/v2m-survey.jpg" alt="V2M survey thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
+      <p><strong>Vision-to-Music Generation: A Survey</strong></p>
+      <p><em><strong>Zhaokai Wang</strong>, Chenxi Bao, Le Zhuo, Jingrui Han, Yang Yue, Yihong Tang, Victor Shea-Jay Huang, Yue Liao</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/abs/2503.21254">[Paper]</a> <a href="https://github.com/wzk1015/Awesome-Vision-to-Music-Generation">[Repo]</a></p>
+    </div>
+  </div>
+
+
+  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -47,6 +61,7 @@ design:
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/vmb.png" alt="VMB thumbnail" style="width: 100%; height: auto;" />
