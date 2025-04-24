@@ -61,7 +61,6 @@ design:
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/vmb.png" alt="VMB thumbnail" style="width: 100%; height: auto;" />
@@ -70,9 +69,10 @@ design:
       <p><strong>Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation</strong></p>
       <p><em>Baisen Wang, Le Zhuo, <strong>Zhaokai Wang</strong>, Chenxi Bao, Chengjing Wu, Xuecheng Nie, Jiao Dai, Jizhong Han, Yue Liao, Si Liu</em></p>
       <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a></p> <a href="https://wzk1015.github.io/vmb/">[Demo]</a></p>
+      <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a> <a href="https://wzk1015.github.io/vmb/">[Demo]</a></p>
     </div>
   </div>
+
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
