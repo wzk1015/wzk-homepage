@@ -26,6 +26,7 @@ design:
 
 <div class="publication-list">
 
+
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
@@ -48,7 +49,17 @@ design:
       <p><a href="https://arxiv.org/abs/2503.21254">[Paper]</a> <a href="https://github.com/wzk1015/Awesome-Vision-to-Music-Generation">[Repo]</a></p>
     </div>
   </div>
-
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex: 2; max-width: 800px;">
+      <img src="pub_imgs/rlvr.jpg" alt="RLVR thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
+      <p><strong>Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?</strong></p>
+      <p><em>Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, <strong>Zhaokai Wang</strong>, Yang Yue, Shiji Song, Gao Huang</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/abs/2504.13837">[Paper]</a> <a href="https://limit-of-rlvr.github.io/">[Project Page]</a></p>
+    </div>
+  </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
