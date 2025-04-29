@@ -26,6 +26,10 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
+Talks:
+
+* 2025.4: Talk on Mono-InternVL at [Open Multimodal Gathering Workshop](https://showlab.github.io/omg/) hosted by NUS [ShowLab](https://sites.google.com/view/showlab). [[Slides]](https://www.wzk.plus/slides/Mono-InternVL_talk.pdf)
+
 Conference Reviewer:
 
 * ICCV 2023 & 2025, ECCV 2024, CVPR 2024 & 2025, EMNLP 2024, NeurIPS 2024, ICLR 2025, ICML 2025, AAAI 2025
