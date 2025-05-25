@@ -42,7 +42,7 @@ education:
   courses:
     - course: Ph.D. (Joint Program with Shanghai AI Lab)
       institution: Department of EE, Shanghai Jiao Tong University
-      year: "2022-"
+      year: "2022-2027(expected)"
     - course: B.A. in Economics (Double Major)
       institution: National School of Development, Peking University
       year: "2019-2022"
