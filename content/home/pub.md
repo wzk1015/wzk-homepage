@@ -50,18 +50,6 @@ design:
       <p><a href="https://arxiv.org/abs/2504.13837">[Paper]</a> <a href="https://limit-of-rlvr.github.io/">[Project Page]</a></p>
     </div>
   </div>
-
-  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
-      <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
-    </div>
-    <div class="publication-text" style="flex: 4; margin-left: 20px;">
-      <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
-      <p><em>Yihong Tang*, Ao Qu*, <strong>Zhaokai Wang*</strong>, Dingyi Zhuang*, Zhaofeng Wu, Wei Ma, Shenhao Wang, Yunhan Zheng, Zhan Zhao, Jinhua Zhao</em></p>
-      <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
-    </div>
-  </div>
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex: 2; max-width: 800px;">
       <img src="pub_imgs/vmb.png" alt="VMB thumbnail" style="width: 100%; height: auto;" />
@@ -71,6 +59,18 @@ design:
       <p><em>Baisen Wang, Le Zhuo, <strong>Zhaokai Wang</strong>, Chenxi Bao, Chengjing Wu, Xuecheng Nie, Jiao Dai, Jizhong Han, Yue Liao, Si Liu</em></p>
       <p>Preprint</p>
       <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a> <a href="https://wzk1015.github.io/vmb/">[Demo]</a></p>
+    </div>
+  </div>
+
+  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex: 2; max-width: 800px;">
+      <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
+      <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
+      <p><em>Yihong Tang*, Ao Qu*, <strong>Zhaokai Wang*</strong>, Dingyi Zhuang*, Zhaofeng Wu, Wei Ma, Shenhao Wang, Yunhan Zheng, Zhan Zhao, Jinhua Zhao</em></p>
+      <p>IJCAI 2025 MKLM Workshop</p>
+      <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
 
@@ -130,7 +130,7 @@ design:
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
       <p><strong>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning</strong></p>
       <p><em>Yihong Tang*, <strong>Zhaokai Wang*</strong>, Ao Qu*, Yihao Yan*, Zhaofeng Wu, Dingyi Zhuang, Jushi Kai, Kebing Hou, Xiaotong Guo, Han Zheng, Tiange Luo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
-      <p>KDD UrbComp 2024 <strong>Best Paper Award</strong> & EMNLP 2024</p>
+      <p>KDD 2024 UrbComp Workshop <strong>Best Paper Award</strong> & EMNLP 2024</p>
       <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
