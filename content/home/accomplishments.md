@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-07-13"
+  description: ""
+  organization: ICML AI4MATH Workshop
+  organization_url: ""
+  title: "**Best Paper Award**"
+  url: "https://sites.google.com/view/ai4mathworkshopicml2025/"
 - certificate_url: https://www.wzk.plus/award_imgs/urbcomp.jpg
   date_end: ""
   date_start: "2024-08-26"
