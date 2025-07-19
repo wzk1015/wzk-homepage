@@ -38,8 +38,18 @@ design:
       <p><a href="https://arxiv.org/abs/2501.07783">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
     </div>
   </div>
-  
 
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex: 2; max-width: 800px;">
+      <img src="pub_imgs/mono_v1.5.jpg" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex: 4; margin-left: 20px;">
+      <p><strong>Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models</strong></p>
+      <p><em>Gen Luo, Wenhan Dou, Wenhao Li, <strong>Zhaokai Wang</strong>, Xue Yang, Changyao Tian, Hao Li, Weiyun Wang, Wenhai Wang, Xizhou Zhu, Yu Qiao, Jifeng Dai</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/abs/2507.12566">[Paper]</a> <a href="https://github.com/OpenGVLab/mono-internvl">[Code]</a></p>
+    </div>
+  </div>
 
 
  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -62,7 +72,7 @@ design:
       <p><strong>Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?</strong></p>
       <p><em>Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, <strong>Zhaokai Wang</strong>, Yang Yue, Shiji Song, Gao Huang</em></p>
       <p>ICML 2025 AI4MATH Workshop <strong>Best Paper Award (2/172)</strong></p>
-      <p><a href="https://arxiv.org/abs/2504.13837">[Paper]</a> <a href="https://limit-of-rlvr.github.io/">[Project Page]</a></p>
+      <p><a href="https://arxiv.org/abs/2504.13837">[Paper]</a> <a href="https://limit-of-rlvr.github.io/">[Project Page]</a> <a href="https://github.com/LeapLabTHU/limit-of-RLVR">[Code]</a></p>
     </div>
  </div>
 
@@ -98,7 +108,7 @@ design:
       <p><strong>Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training</strong></p>
       <p><em>Gen Luo*, Xue Yang*, Wenhan Dou*, <strong>Zhaokai Wang*</strong>, Jiawen Liu, Jifeng Dai, Yu Qiao, Xizhou Zhu</em></p>
       <p>CVPR 2025</p>
-      <p><a href="https://arxiv.org/abs/2410.08202">[Paper]</a> <a href="https://internvl.github.io/blog/2024-10-10-Mono-InternVL/">[Project Page]</a> <a href="https://github.com/OpenGVLab/Mono-InternVL">[Code]</a> <a href="https://huggingface.co/collections/OpenGVLab/mono-internvl-6707cb402afb22f1e29f4d2b">[Model]</a> <a href="https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg">[Post]</a></p>
+      <p><a href="https://arxiv.org/abs/2410.08202">[Paper]</a> <a href="https://internvl.github.io/blog/2024-10-10-Mono-InternVL/">[Project Page]</a> <a href="https://github.com/OpenGVLab/Mono-InternVL">[Code]</a> <a href="https://huggingface.co/collections/OpenGVLab/mono-internvl-6707cb402afb22f1e29f4d2b">[Model]</a> <a href="https://mp.weixin.qq.com/s/FmjG0Gp5ow7mm2Vzd9ppPg">[Post]</a> <a href="https://www.wzk.plus/slides/Mono-InternVL_talk.pdf)">[Slides]</a></p>
     </div>
   </div>
 
