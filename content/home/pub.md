@@ -28,7 +28,7 @@ design:
 
 
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -40,7 +40,7 @@ design:
   </div>
 
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/mono_v1.5.jpg" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -53,7 +53,7 @@ design:
 
 
  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/vmb.png" alt="VMB thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -65,7 +65,7 @@ design:
   </div>
 
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/rlvr.jpg" alt="RLVR thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -77,7 +77,7 @@ design:
  </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -89,7 +89,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/v2m-survey.jpg" alt="V2M survey thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -101,7 +101,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/mono-internvl.png" alt="Mono-InternVL thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -113,7 +113,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/synergen.jpg" alt="SynerGen-VL thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -125,7 +125,7 @@ design:
   </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/piip.png" alt="PIIP thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -138,7 +138,7 @@ design:
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/itinera2.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -153,7 +153,7 @@ design:
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/auto_mc_reward.png" alt="Auto MC-Reward thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -166,7 +166,7 @@ design:
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/musprod.png" alt="Musprod thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -180,7 +180,7 @@ design:
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/cmt.png" alt="CMT thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
@@ -194,7 +194,7 @@ design:
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex: 2; max-width: 800px;">
+    <div class="publication-image" style="flex: 2; max-width: 400px;">
       <img src="pub_imgs/cnmt.png" alt="CNMT thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex: 4; margin-left: 20px;">
