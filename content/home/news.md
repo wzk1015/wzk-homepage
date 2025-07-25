@@ -26,6 +26,7 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
+* 2025.7: ⭐️ Our paper [PIIP](https://arxiv.org/abs/2501.07783) on efficient multimodal understanding is accepted by **TPAMI**.
 * 2025.7 🏆 Our paper [Limit of RLVR](https://arxiv.org/abs/2504.13837) on reinforcement learning for LLM is awarded the **Best Paper Award (2/172)** of **ICML AI4MATH Workshop 2025!**
 * 2025.6: ⭐️ Our paper [V2M Survey](https://arxiv.org/abs/2503.21254) on vision-to-music generation is accepted by **ISMIR 2025**.
 * 2025.4: 🎤 Talk on Mono-InternVL at [Open Multimodal Gathering Workshop](https://showlab.github.io/omg/) hosted by NUS [ShowLab](https://sites.google.com/view/showlab). [[Slides]](https://www.wzk.plus/slides/Mono-InternVL_talk.pdf)

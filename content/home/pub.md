@@ -27,17 +27,7 @@ design:
 <div class="publication-list">
 
 
-<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex:1; max-width: 400px;">
-      <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
-    </div>
-    <div class="publication-text" style="flex:3;  margin-left: 20px;">
-      <p><strong>Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding</strong></p>
-      <p><em><strong>Zhaokai Wang</strong>, Xizhou Zhu, Xue Yang, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
-      <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2501.07783">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
-    </div>
-  </div>
+
 
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
@@ -61,6 +51,18 @@ design:
       <p><em>Baisen Wang, Le Zhuo, <strong>Zhaokai Wang</strong>, Chenxi Bao, Chengjing Wu, Xuecheng Nie, Jiao Dai, Jizhong Han, Yue Liao, Si Liu</em></p>
       <p>Preprint</p>
       <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a> <a href="https://wzk1015.github.io/vmb/">[Demo]</a></p>
+    </div>
+  </div>
+
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex:1; max-width: 400px;">
+      <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex:3;  margin-left: 20px;">
+      <p><strong>Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding</strong></p>
+      <p><em><strong>Zhaokai Wang</strong>, Xizhou Zhu, Xue Yang, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
+      <p>TPAMI 2025</p>
+      <p><a href="https://arxiv.org/abs/2501.07783">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
     </div>
   </div>
 
