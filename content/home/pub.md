@@ -89,7 +89,6 @@ design:
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/v2m-survey.jpg" alt="V2M survey thumbnail" style="width: 100%; height: auto;" />
@@ -98,9 +97,10 @@ design:
       <p><strong>Vision-to-Music Generation: A Survey</strong></p>
       <p><em><u>Zhaokai Wang</u>, Chenxi Bao, Le Zhuo, Jingrui Han, Yang Yue, Yihong Tang, Victor Shea-Jay Huang, Yue Liao</em></p>
       <p><strong>ISMIR 2025</strong></p>
-      <p><a href="https://arxiv.org/abs/2503.21254">[Paper]</a> <a href="https://github.com/wzk1015/Awesome-Vision-to-Music-Generation">[Repo]</a></p>
+      <p><a href="https://arxiv.org/abs/2503.21254">[Paper]</a> <a href="https://github.com/wzk1015/Awesome-Vision-to-Music-Generation">[Repo]</a> <a href="https://www.youtube.com/watch?v=JwV05mMlOG0">[Video]</a></p>
     </div>
   </div>
+
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
