@@ -77,7 +77,6 @@ design:
       <p><a href="https://arxiv.org/abs/2504.13837">[Paper]</a> <a href="https://limit-of-rlvr.github.io/">[Project Page]</a> <a href="https://github.com/LeapLabTHU/limit-of-RLVR">[Code]</a></p>
     </div>
  </div>
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
@@ -85,10 +84,11 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
       <p><em>Yihong Tang*, Ao Qu*, <u>Zhaokai Wang*</u>, Dingyi Zhuang*, Zhaofeng Wu, Wei Ma, Shenhao Wang, Yunhan Zheng, Zhan Zhao, Jinhua Zhao</em></p>
-      <p><strong>IJCAI 2025 MKLM Workshop</strong></p>
+      <p><strong>IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/v2m-survey.jpg" alt="V2M survey thumbnail" style="width: 100%; height: auto;" />
@@ -100,6 +100,7 @@ design:
       <p><a href="https://arxiv.org/abs/2503.21254">[Paper]</a> <a href="https://github.com/wzk1015/Awesome-Vision-to-Music-Generation">[Repo]</a> <a href="https://www.youtube.com/watch?v=JwV05mMlOG0">[Video]</a></p>
     </div>
   </div>
+
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">

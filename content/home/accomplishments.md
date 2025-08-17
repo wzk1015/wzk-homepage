@@ -33,6 +33,14 @@ item:
   organization_url: ""
   title: "**Best Paper Award**"
   url: "https://sites.google.com/view/ai4mathworkshopicml2025/"
+- certificate_url: https://www.wzk.plus/award_imgs/mklm.png
+  date_end: ""
+  date_start: "2025-08-16"
+  description: ""
+  organization: IJCAI MKLM Workshop
+  organization_url: ""
+  title: "**Best Paper Award**"
+  url: "https://sites.google.com/view/ijcai-mklm/"
 - certificate_url: https://www.wzk.plus/award_imgs/urbcomp.jpg
   date_end: ""
   date_start: "2024-08-26"
