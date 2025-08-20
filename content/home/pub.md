@@ -84,10 +84,11 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
       <p><em>Yihong Tang*, Ao Qu*, <u>Zhaokai Wang*</u>, Dingyi Zhuang*, Zhaofeng Wu, Wei Ma, Shenhao Wang, Yunhan Zheng, Zhan Zhao, Jinhua Zhao</em></p>
-      <p><strong>IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
+      <p>EMNLP 2025 Findings &amp; <strong>IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
+
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
@@ -141,7 +142,6 @@ design:
   </div>
 
 
-
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/itinera2.jpg" alt="ITINERA thumbnail" style="width: 100%; height: auto;" />
@@ -149,10 +149,11 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>ITINERA: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning</strong></p>
       <p><em>Yihong Tang*, <u>Zhaokai Wang*</u>, Ao Qu*, Yihao Yan*, Zhaofeng Wu, Dingyi Zhuang, Jushi Kai, Kebing Hou, Xiaotong Guo, Han Zheng, Tiange Luo, Jinhua Zhao, Zhan Zhao, Wei Ma</em></p>
-      <p><strong>EMNLP 2024 & KDD 2024 UrbComp Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
+      <p><strong>EMNLP 2024 Industry Track &amp; KDD 2024 UrbComp Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
       <p><a href="https://arxiv.org/abs/2402.07204">[Paper]</a> <a href="https://github.com/YihongT/ITINERA">[Code]</a> <a href="https://mp.weixin.qq.com/s/44mtENyqrHiNEEcWS61COg">[Post]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/lk23u3q/PRE_EMNLP_ITINERA.pdf">[Slides]</a> <a href="https://s3.amazonaws.com/pf-user-files-01/u-59356/uploads/2024-10-27/iw03u0v/PRE_video.mp4">[Video]</a></p>
     </div>
   </div>
+
 
 
 
