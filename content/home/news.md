@@ -26,7 +26,9 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
-* 2025.8 🏆 Our paper [Sparkle](https://arxiv.org/abs/2410.16162) on VLM spatial reasoning is accepted by **EMNLP 2025 Findings** and awarded the **Best Paper Award** at **IJCAI MKLM Workshop 2025**.
+* 2025.8: 🚀 We release [InternVL3.5](https://arxiv.org/abs/2508.18265), a leading multimodal large language model with advanced versatility, reasoning, and efficiency.
+
+* 2025.8: 🏆 Our paper [Sparkle](https://arxiv.org/abs/2410.16162) on VLM spatial reasoning is accepted by **EMNLP 2025 Findings** and awarded the **Best Paper Award** at **IJCAI MKLM Workshop 2025**.
 
 * 2025.7: ⭐️ Our paper [PIIP](https://arxiv.org/abs/2501.07783) on efficient multimodal understanding is accepted by **TPAMI**.
 

@@ -40,6 +40,17 @@ design:
       <p><a href="https://arxiv.org/abs/2507.12566">[Paper]</a> <a href="https://github.com/OpenGVLab/mono-internvl">[Code]</a></p>
     </div>
   </div>
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex:1; max-width: 400px;">
+      <img src="pub_imgs/internvl3.5.png" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex:3;  margin-left: 20px;">
+      <p><strong>InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency</strong></p>
+      <p><em>Weiyun Wang*, Zhangwei Gao*, Lixin Gu*, Hengjun Pu*, Long Cui*, Xingguang Wei*, Zhaoyang Liu*, Linglin Jing*, Shenglong Ye*, Jie Shao*, <u>Zhaokai Wang*</u>, Zhe Chen*, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, Biqing Qi, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Weijie Su, Bowen Zhou, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo</em></p>
+      <p>Technical Report</p>
+      <p><a href="https://arxiv.org/abs/2508.18265">[Paper]</a> <a href="https://github.com/OpenGVLab/InternVL">[Code]</a></p>
+    </div>
+  </div>
 
 
  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
