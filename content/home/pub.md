@@ -39,6 +39,7 @@ design:
 
 
 
+
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/mono_v1.5.jpg" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
@@ -95,7 +96,7 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?</strong></p>
       <p><em>Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, <u>Zhaokai Wang</u>, Yang Yue, Shiji Song, Gao Huang</em></p>
-      <p><strong>ICML 2025 AI4MATH Workshop <span style="color: #ff0000;">Best Paper Award (2/172)</span></strong></p>
+      <p><strong>NeurIPS 2025 <span style="color: #ff0000;">Oral (Top 0.3%)</span> &amp; ICML 2025 AI4MATH Workshop <span style="color: #ff0000;">Best Paper Award (2/172)</span></strong></p>
       <p><a href="https://arxiv.org/abs/2504.13837">[Paper]</a> <a href="https://limit-of-rlvr.github.io/">[Project Page]</a> <a href="https://github.com/LeapLabTHU/limit-of-RLVR">[Code]</a></p>
     </div>
  </div>
@@ -106,7 +107,7 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
       <p><em>Yihong Tang*, Ao Qu*, <u>Zhaokai Wang*</u>, Dingyi Zhuang*, Zhaofeng Wu, Wei Ma, Shenhao Wang, Yunhan Zheng, Zhan Zhao, Jinhua Zhao</em></p>
-      <p>EMNLP 2025 Findings &amp; <strong>IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
+      <p><strong>EMNLP 2025 Findings &amp; IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
