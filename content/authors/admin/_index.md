@@ -53,5 +53,5 @@ email: "self@wzk.plus"
 superuser: true
 highlight_name: true
 ---
-I am a third-year Ph.D. candidate at Shanghai Jiao Tong University and Shanghai AI Laboratory, supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>. I obtained my bachelor's degree from Beihang University in 2022, where I worked with Prof. [Si Liu](https://colalab.net/people). I also have a double bachelor's degree in economics from Peking University. Currently, I am an intern at [OpenGVLab](https://github.com/OpenGVLab) of Shanghai AI Laboratory. Previously I was an intern at [SenseTime](https://www.sensetime.com/) and <a href="https://sail.sea.com/">Sea AI Lab</a>.
+I am fourth-year Ph.D. candidate at Shanghai Jiao Tong University and Shanghai AI Laboratory, supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>. I obtained my bachelor's degree from Beihang University in 2022, where I worked with Prof. [Si Liu](https://colalab.net/people). I also have a double bachelor's degree in economics from Peking University. Currently, I am an intern at [OpenGVLab](https://github.com/OpenGVLab) of Shanghai AI Laboratory. Previously, I was an intern at [SenseTime](https://www.sensetime.com/) and <a href="https://sail.sea.com/">Sea AI Lab</a>.
 

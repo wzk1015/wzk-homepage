@@ -31,9 +31,9 @@ design:
     </div>
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>GenExam: A Multidisciplinary Text-to-Image Exam</strong></p>
-      <p><em>Zhaokai Wang, Penghao Yin, Xiangyu Zhao, Changyao Tian, Yu Qiao, Wenhai Wang, Jifeng Dai, Gen Luo</em></p>
+      <p><em><u>Zhaokai Wang*</u>, Penghao Yin*, Xiangyu Zhao, Changyao Tian, Yu Qiao, Wenhai Wang, Jifeng Dai, Gen Luo</em></p>
       <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2509.14232">[Paper]</a> <a href="https://github.com/OpenGVLab/GenExam">[Code]</a> <a href="https://huggingface.co/datasets/OpenGVLab/GenExam">[Dataset]</a></p>
+      <p><a href="https://arxiv.org/abs/2509.14232">[Paper]</a> <a href="https://github.com/OpenGVLab/GenExam">[Code]</a> <a href="https://huggingface.co/datasets/OpenGVLab/GenExam">[Dataset]</a> <a href="https://mp.weixin.qq.com/s/r0J8AwQnC-_66PW3vqZKBA">[Post]</a></p>
     </div>
   </div>
 
@@ -76,14 +76,13 @@ design:
       <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a> <a href="https://wzk1015.github.io/vmb/">[Demo]</a></p>
     </div>
   </div>
-
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding</strong></p>
-      <p><em><u>Zhaokai Wang</u>, Xizhou Zhu, Xue Yang, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
+      <p><em><u>Zhaokai Wang*</u>, Xizhou Zhu*, Xue Yang*, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
       <p><strong>TPAMI 2025</strong></p>
       <p><a href="https://arxiv.org/abs/2501.07783">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
     </div>
@@ -100,6 +99,8 @@ design:
       <p><a href="https://arxiv.org/abs/2504.13837">[Paper]</a> <a href="https://limit-of-rlvr.github.io/">[Project Page]</a> <a href="https://github.com/LeapLabTHU/limit-of-RLVR">[Code]</a></p>
     </div>
  </div>
+
+
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/sparkle.jpg" alt="Sparkle thumbnail" style="width: 100%; height: auto;" />
@@ -107,10 +108,11 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
       <p><em>Yihong Tang*, Ao Qu*, <u>Zhaokai Wang*</u>, Dingyi Zhuang*, Zhaofeng Wu, Wei Ma, Shenhao Wang, Yunhan Zheng, Zhan Zhao, Jinhua Zhao</em></p>
-      <p><strong>EMNLP 2025 Findings &amp; IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
+      <p>EMNLP 2025 Findings &amp; <strong>IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>
+
 
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
