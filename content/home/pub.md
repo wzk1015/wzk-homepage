@@ -60,7 +60,7 @@ design:
       <p><strong>InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency</strong></p>
       <p><em>Weiyun Wang*, Zhangwei Gao*, Lixin Gu*, Hengjun Pu*, Long Cui*, Xingguang Wei*, Zhaoyang Liu*, Linglin Jing*, Shenglong Ye*, Jie Shao*, <u>Zhaokai Wang*</u>, Zhe Chen*, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, Guanzhou Chen, Zichen Ding, Changyao Tian, Zhenyu Wu, Jingjing Xie, Zehao Li, Bowen Yang, Yuchen Duan, Xuehui Wang, Zhi Hou, Haoran Hao, Tianyi Zhang, Songze Li, Xiangyu Zhao, Haodong Duan, Nianchen Deng, Bin Fu, Yinan He, Yi Wang, Conghui He, Botian Shi, Junjun He, Yingtong Xiong, Han Lv, Lijun Wu, Wenqi Shao, Kaipeng Zhang, Huipeng Deng, Biqing Qi, Jiaye Ge, Qipeng Guo, Wenwei Zhang, Songyang Zhang, Maosong Cao, Junyao Lin, Kexian Tang, Jianfei Gao, Haian Huang, Yuzhe Gu, Chengqi Lyu, Huanze Tang, Rui Wang, Haijun Lv, Wanli Ouyang, Limin Wang, Min Dou, Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Weijie Su, Bowen Zhou, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo</em></p>
       <p>Technical Report</p>
-      <p><a href="https://arxiv.org/abs/2508.18265">[Paper]</a> <a href="https://github.com/OpenGVLab/InternVL">[Code]</a></p> <a href="https://chat.intern-ai.org.cn/">[Demo]</a>
+      <p><a href="https://arxiv.org/abs/2508.18265">[Paper]</a> <a href="https://github.com/OpenGVLab/InternVL">[Code]</a> <a href="https://chat.intern-ai.org.cn/">[Demo]</a> </p>
     </div>
 </div>
 
@@ -72,10 +72,11 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Multimodal Music Generation with Explicit Bridges and Retrieval Augmentation</strong></p>
       <p><em>Baisen Wang, Le Zhuo, <u>Zhaokai Wang</u>, Chenxi Bao, Chengjing Wu, Xuecheng Nie, Jiao Dai, Jizhong Han, Yue Liao, Si Liu</em></p>
-      <p>Preprint</p>
+      <p><strong>ISMIR 2025 LLM4Music Workshop</strong></p>
       <p><a href="https://arxiv.org/abs/2412.09428">[Paper]</a> <a href="https://github.com/wbs2788/VMB">[Code]</a> <a href="https://wzk1015.github.io/vmb/">[Demo]</a></p>
     </div>
   </div>
+
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
@@ -95,7 +96,7 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?</strong></p>
       <p><em>Yang Yue, Zhiqi Chen, Rui Lu, Andrew Zhao, <u>Zhaokai Wang</u>, Yang Yue, Shiji Song, Gao Huang</em></p>
-      <p><strong>NeurIPS 2025 <span style="color: #ff0000;">Oral (Top 0.3%)</span> &amp; ICML 2025 AI4MATH Workshop <span style="color: #ff0000;">Best Paper Award (2/172)</span></strong></p>
+      <p><strong>NeurIPS 2025 <span style="color: #ff0000;">Oral <a href="https://papercopilot.com/statistics/neurips-statistics/neurips-2025-statistics/">(Top 0.3%)</a></span> &amp; ICML 2025 AI4MATH Workshop <span style="color: #ff0000;">Best Paper Award (2/172)</span></strong></p>
       <p><a href="https://arxiv.org/abs/2504.13837">[Paper]</a> <a href="https://limit-of-rlvr.github.io/">[Project Page]</a> <a href="https://github.com/LeapLabTHU/limit-of-RLVR">[Code]</a></p>
     </div>
  </div>
