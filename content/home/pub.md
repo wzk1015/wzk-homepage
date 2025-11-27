@@ -109,7 +109,7 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>Sparkle: Mastering Basic Spatial Capabilities in Vision Language Models Elicits Generalization to Composite Spatial Reasoning</strong></p>
       <p><em>Yihong Tang*, Ao Qu*, <u>Zhaokai Wang*</u>, Dingyi Zhuang*, Zhaofeng Wu, Wei Ma, Shenhao Wang, Yunhan Zheng, Zhan Zhao, Jinhua Zhao</em></p>
-      <p>EMNLP 2025 Findings &amp; <strong>IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
+      <p><strong>EMNLP 2025 Findings &amp; IJCAI 2025 MKLM Workshop <span style="color: #ff0000;">Best Paper Award</span></strong></p>
       <p><a href="https://arxiv.org/abs/2410.16162">[Paper]</a></p>
     </div>
   </div>

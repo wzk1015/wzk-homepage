@@ -42,7 +42,7 @@ education:
   courses:
     - course: Ph.D. Student
       institution: Shanghai Jiao Tong University
-      year: "2022-2027(expected)"
+      year: "2022-2027 (Expected)"
     - course: Visiting Student
       institution: Centre for Artificial Intelligence, University College London
       year: "2025"
