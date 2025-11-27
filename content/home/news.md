@@ -26,9 +26,7 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
-* 2025.9: 🚀 We release [GenExam](https://arxiv.org/abs/2509.14232), a benchmark for evaluating text-to-image generation in exam-style settings across multiple disciplines.
-
-* 2025.9 🏆 Our paper [Limit of RLVR](https://arxiv.org/abs/2504.13837) on reinforcement learning for LLM is accepted by **NeurIPS 2025** as **Oral (Top 0.3%)** and awarded the **Best Paper Award (2/172)** of **ICML AI4MATH Workshop 2025!**
+* 2025.11: 🏆 Our paper [Limit of RLVR](https://arxiv.org/abs/2504.13837) on reinforcement learning for LLM is awared the **Best Paper Runner Up Award** of **NeurIPS 2025**!
 
 * 2025.8: 🚀 We release [InternVL3.5](https://arxiv.org/abs/2508.18265), a leading multimodal large language model with advanced versatility, reasoning, and efficiency.
 

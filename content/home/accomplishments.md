@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: ""
+  date_end: ""
+  date_start: "2025-12-01"
+  description: ""
+  organization: NeurIPS 2025
+  organization_url: ""
+  title: "**Best Paper Runner UP Award**"
+  url: "https://blog.neurips.cc/2025/11/26/announcing-the-neurips-2025-best-paper-awards/"
 - certificate_url: https://www.wzk.plus/award_imgs/ai4math.jpg
   date_end: ""
   date_start: "2025-07-13"
