@@ -1,0 +1,5 @@
+We provide uncurated generated samples in video conditional and unconditional settings.
+
+For video background music generation, we provide 3 videos together with generated background music by V-MusProd in the *conditional* folder. Note that the 3 videos are selected from different categories, *i.e.*, scenery, city scenes, and movies. Specifically, we provide two versions of V-MusProd samples: *raw* and *processed*. *Raw* uses the default piano soundfont for melody and accompaniment tracks, while *processed* uses different soundfonts for the two tracks. This highlights an advantage of decoupling melody and accompaniment that we can use different soundfonts for the two tracks when synthesizing audio, making the music more melodious. Different soundfonts are only used in the attached demos but not in any of our experiments for fair comparisons. We compress the videos to a lower resolution while retaining their audio resolution.
+
+For unconditional generation, we provide 5 generated music pieces by V-MusProd without video conditions in the *unconditional* folder. Similarly, unconditional samples also have two versions of *raw* and *processed*.

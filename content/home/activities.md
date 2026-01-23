@@ -34,6 +34,10 @@ Conference Reviewer
 
 * ICCV 2023 & 2025, ECCV 2024, CVPR 2024 & 2025, EMNLP 2024, NeurIPS 2024, ICLR 2025, ICML 2025, AAAI 2025
 
+Journal Reviewer
+
+* TPAMI, ACM Computing Survey
+
 Teaching Assistant
 
 * Fundamentals of Computers (2021 spring)
