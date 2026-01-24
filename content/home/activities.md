@@ -28,7 +28,7 @@ design:
 
 Talks
 
-* 2026.1: *From Frames to Beats: Progress and Challenges in Video-to-Music Generation*. At [Centre for Digital Music (C4DM)](https://www.c4dm.eecs.qmul.ac.uk/) at Queen Mary University of London. [[Slides]](https://www.wzk.plus/slides/Video2Music_Talk.pdf)
+* 2026.1: *From Frames to Beats: Progress and Challenges in Video-to-Music Generation*. At [Centre for Digital Music (C4DM)](https://www.c4dm.eecs.qmul.ac.uk/) of Queen Mary University of London. [[Slides]](https://www.wzk.plus/slides/Video2Music_Talk.pdf) [[Recording]](https://youtu.be/jpMfYm-Dom0)
 * 2025.4: *Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training*. At [Open Multimodal Gathering Workshop](https://showlab.github.io/omg/) hosted by NUS [ShowLab](https://sites.google.com/view/showlab). [[Slides]](https://www.wzk.plus/slides/Mono-InternVL_talk.pdf)
 
 Conference Reviewer
