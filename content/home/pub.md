@@ -27,7 +27,7 @@ design:
 <div class="publication-list">
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
-      <img src="pub_imgs/genexam.png" alt="genexam thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/genexam_2.png" alt="genexam thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>GenExam: A Multidisciplinary Text-to-Image Exam</strong></p>
@@ -38,9 +38,10 @@ design:
   </div>
 
 
+
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
-      <img src="pub_imgs/internvl3.5.png" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/internvlu.png" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing</strong></p>
