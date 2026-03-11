@@ -38,19 +38,21 @@ design:
   </div>
 
 
-
-
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
-      <img src="pub_imgs/mono_v1.5.jpg" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
+      <img src="pub_imgs/internvl3.5.png" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
-      <p><strong>Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models</strong></p>
-      <p><em>Gen Luo, Wenhan Dou, Wenhao Li, <u>Zhaokai Wang</u>, Xue Yang, Changyao Tian, Hao Li, Weiyun Wang, Wenhai Wang, Xizhou Zhu, Yu Qiao, Jifeng Dai</em></p>
-      <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2507.12566">[Paper]</a> <a href="https://github.com/OpenGVLab/mono-internvl">[Code]</a></p>
+      <p><strong>InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing</strong></p>
+      <p><em>Changyao Tian*, Danni Yang*, Guanzhou Chen*, Erfei Cui*, <u>Zhaokai Wang*</u>, Yuchen Duan*, Penghao Yin*, Sitao Chen, Ganlin Yang, Mingxin Liu, Zirun Zhu, Ziqian Fan, Leyao Gu, Haomin Wang, Qi Wei, Jinhui Yin, Xue Yang, Zhihang Zhong, Qi Qin, Yi Xin, Bin Fu, Yihao Liu, Jiaye Ge, Qipeng Guo, Gen Luo, Hongsheng Li, Yu Qiao, Kai Chen, Hongjie Zhang</em></p>
+      <p>Technical Report</p>
+      <p><a href="https://arxiv.org/abs/2603.09877">[Paper]</a> <a href="https://github.com/OpenGVLab/InternVL-U">[Code]</a></p>
     </div>
-  </div>
+</div>
+
+
+
+
 
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
@@ -64,6 +66,18 @@ design:
     </div>
 </div>
 
+
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex:1; max-width: 400px;">
+      <img src="pub_imgs/mono_v1.5.jpg" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex:3;  margin-left: 20px;">
+      <p><strong>Mono-InternVL-1.5: Towards Cheaper and Faster Monolithic Multimodal Large Language Models</strong></p>
+      <p><em>Gen Luo, Wenhan Dou, Wenhao Li, <u>Zhaokai Wang</u>, Xue Yang, Changyao Tian, Hao Li, Weiyun Wang, Wenhai Wang, Xizhou Zhu, Yu Qiao, Jifeng Dai</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/abs/2507.12566">[Paper]</a> <a href="https://github.com/OpenGVLab/mono-internvl">[Code]</a></p>
+    </div>
+  </div>
 
  <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
