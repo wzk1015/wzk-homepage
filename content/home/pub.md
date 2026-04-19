@@ -32,10 +32,11 @@ design:
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
       <p><strong>GenExam: A Multidisciplinary Text-to-Image Exam</strong></p>
       <p><em><u>Zhaokai Wang*</u>, Penghao Yin*, Xiangyu Zhao, Changyao Tian, Yu Qiao, Wenhai Wang, Jifeng Dai, Gen Luo</em></p>
-      <p>Preprint</p>
+      <p><strong>ICML 2026</strong></p>
       <p><a href="https://arxiv.org/abs/2509.14232">[Paper]</a> <a href="https://github.com/OpenGVLab/GenExam">[Code]</a> <a href="https://huggingface.co/datasets/OpenGVLab/GenExam">[Dataset]</a> <a href="https://mp.weixin.qq.com/s/r0J8AwQnC-_66PW3vqZKBA">[Post]</a></p>
     </div>
   </div>
+
 
 
 
@@ -67,6 +68,18 @@ design:
     </div>
 </div>
 
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex:1; max-width: 400px;">
+      <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex:3;  margin-left: 20px;">
+      <p><strong>Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding</strong></p>
+      <p><em><u>Zhaokai Wang*</u>, Xizhou Zhu*, Xue Yang*, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
+      <p><strong>TPAMI 2025</strong></p>
+      <p><a href="https://arxiv.org/abs/2501.07783">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
+    </div>
+  </div>
+
 
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
@@ -92,17 +105,9 @@ design:
     </div>
   </div>
 
-<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
-    <div class="publication-image" style="flex:1; max-width: 400px;">
-      <img src="pub_imgs/piip_v2.jpg" alt="PIIP_v2 thumbnail" style="width: 100%; height: auto;" />
-    </div>
-    <div class="publication-text" style="flex:3;  margin-left: 20px;">
-      <p><strong>Parameter-Inverted Image Pyramid Networks for Visual Perception and Multimodal Understanding</strong></p>
-      <p><em><u>Zhaokai Wang*</u>, Xizhou Zhu*, Xue Yang*, Gen Luo, Hao Li, Changyao Tian, Wenhan Dou, Junqi Ge, Lewei Lu, Yu Qiao, Jifeng Dai</em></p>
-      <p><strong>TPAMI 2025</strong></p>
-      <p><a href="https://arxiv.org/abs/2501.07783">[Paper]</a> <a href="https://github.com/OpenGVLab/PIIP">[Code]</a></p>
-    </div>
-  </div>
+
+  
+
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/rlvr.jpg" alt="RLVR thumbnail" style="width: 100%; height: auto;" />

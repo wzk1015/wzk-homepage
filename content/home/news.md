@@ -26,6 +26,8 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
+* 2026.5: ⭐️ Our paper [GenExam](https://arxiv.org/pdf/2509.14232) on benchmarking image generation is accepted by **ICML 2026**.
+
 * 2026.4: 🚀 Check out [WorldCupArena](https://wzk1015.github.io/WorldCupArena/), an arena benchmarking LLMs and deep-research agents on real-world football prediction.
 
 * 2026.3: 🚀 We release [InternVL-U](https://github.com/OpenGVLab/InternVL-U), a unified multimodal model that brings multimodal understanding, reasoning, image generation and image editing into a single framework with an efficient and practical model size.
