@@ -26,6 +26,8 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
+* 2026.4: 🚀 Check out [WorldCupArena](https://wzk1015.github.io/WorldCupArena/), an arena benchmarking LLMs and deep-research agents on real-world football prediction.
+
 * 2026.3: 🚀 We release [InternVL-U](https://github.com/OpenGVLab/InternVL-U), a unified multimodal model that brings multimodal understanding, reasoning, image generation and image editing into a single framework with an efficient and practical model size.
 
 * 2026.1: 🎤 Talk at [Centre for Digital Music (C4DM)](https://www.c4dm.eecs.qmul.ac.uk/) of Queen Mary University of London: *From Frames to Beats: Progress and Challenges in Video-to-Music Generation*.  [[Slides]](https://www.wzk.plus/slides/Video2Music_Talk.pdf) [[Recording]](https://youtu.be/jpMfYm-Dom0)
@@ -39,7 +41,5 @@ design:
 * 2025.7: ⭐️ Our paper [PIIP](https://arxiv.org/abs/2501.07783) on efficient multimodal understanding is accepted by **TPAMI**.
 
 * 2025.6: ⭐️ Our paper [V2M Survey](https://arxiv.org/abs/2503.21254) on vision-to-music generation is accepted by **ISMIR 2025**.
-
-* 2025.2: ⭐️ Our papers [Mono-InternVL](https://arxiv.org/abs/2410.08202) and [SynerGen-VL](https://arxiv.org/abs/2412.09604) on encoder-free MLLMs are accepted by **CVPR 2025**.
 
   
