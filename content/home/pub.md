@@ -82,6 +82,17 @@ design:
   </div>
 
 
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex:1; max-width: 400px;">
+      <img src="pub_imgs/disciplinegen.png" alt="DisciplineGen thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex:3;  margin-left: 20px;">
+      <p><strong>DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing</strong></p>
+      <p><em><u>Zhaokai Wang*</u>, Mingxin Liu*, Zirun Zhu*, Ziqian Fan*, Yiguo He*, Mohan Zhang, Leyao Gu, Xiangyu Zhao, Ning Liao, Shaofeng Zhang, Xuanhe Zhou, Zhihang Zhong, Junchi Yan, Xue Yang</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/">[Paper]</a> <a href="https://github.com/VisionXLab/">[Code]</a></p>
+    </div>
+  </div>
 
   <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
