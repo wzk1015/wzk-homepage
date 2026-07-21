@@ -90,8 +90,19 @@ design:
       <p><strong>DisciplineGen-1M: A Large-Scale Dataset for Multidisciplinary Visual Generation and Editing</strong></p>
       <p><em><u>Zhaokai Wang*</u>, Mingxin Liu*, Zirun Zhu*, Ziqian Fan*, Yiguo He*, Mohan Zhang, Leyao Gu, Xiangyu Zhao, Ning Liao, Shaofeng Zhang, Xuanhe Zhou, Zhihang Zhong, Junchi Yan, Xue Yang</em></p>
       <p>Preprint</p>
-      <p><a href="https://arxiv.org/abs/2607.02290
-">[Paper]</a> <a href="https://github.com/VisionXLab/">[Code]</a></p>
+      <p><a href="https://arxiv.org/abs/2607.02290">[Paper]</a> <a href="https://github.com/VisionXLab/DisciplineGen-1M">[Code]</a></p>
+    </div>
+  </div>
+  
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex:1; max-width: 400px;">
+      <img src="pub_imgs/worldcuparena.png" alt="WorldCupArena thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex:3;  margin-left: 20px;">
+      <p><strong>WorldCupArena: Fine-Grained Evaluation of Language Models and Deep-Research Agents on Football Forecasting</strong></p>
+      <p><em><u>Zhaokai Wang</u>, Tianlin Gui, Jiayuan Rao, Shangzhe Di, Yihong Tang, Dingli Liang</em></p>
+      <p>Preprint</p>
+      <p><a href="https://arxiv.org/abs/2607.18084">[Paper]</a> <a href="https://github.com/wzk1015/WorldCupArena">[Code]</a></p>
     </div>
   </div>
 
