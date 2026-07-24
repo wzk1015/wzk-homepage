@@ -25,6 +25,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: ""
+  date_end: ""
+  date_start: "2026-07-25"
+  description: ""
+  organization: Tencent Hunyuan
+  organization_url: ""
+  title: "**Tencent PhD Research Incentive Program (Hunyuan Scholar)**"
+  url: ""
 - certificate_url: https://www.wzk.plus/award_imgs/neurips.jpg
   date_end: ""
   date_start: "2025-12-01"

@@ -26,6 +26,9 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
+* 2026.7: 🏆 I am selected for the Tencent PhD Research Incentive Program (Hunyuan Scholar).
+* 2026.7: ⭐️ Our paper [GRADE](https://arxiv.org/abs/2603.12264) is accepted by ECCV as **Oral**.
+
 * 2026.5: ⭐️ Our paper [GenExam](https://arxiv.org/pdf/2509.14232) on benchmarking image generation is accepted by **ICML 2026**.
 
 * 2026.4: 🚀 Check out [WorldCupArena](https://wzk1015.github.io/WorldCupArena/), an arena benchmarking LLMs and deep-research agents on real-world football prediction.
@@ -38,10 +41,6 @@ design:
 
 * 2025.8: 🚀 We release [InternVL3.5](https://arxiv.org/abs/2508.18265), a leading multimodal large language model with advanced versatility, reasoning, and efficiency.
 
-* 2025.8: 🏆 Our paper [Sparkle](https://arxiv.org/abs/2410.16162) on VLM spatial reasoning is accepted by **EMNLP 2025 Findings** and awarded the **Best Paper Award** at **IJCAI MKLM Workshop 2025**.
-
 * 2025.7: ⭐️ Our paper [PIIP](https://arxiv.org/abs/2501.07783) on efficient multimodal understanding is accepted by **TPAMI**.
-
-* 2025.6: ⭐️ Our paper [V2M Survey](https://arxiv.org/abs/2503.21254) on vision-to-music generation is accepted by **ISMIR 2025**.
 
   
