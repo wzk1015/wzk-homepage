@@ -25,9 +25,9 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
+- certificate_url: "https://mp.weixin.qq.com/s/eVUy4dBh3aUBk5uRW2GBPw"
   date_end: ""
-  date_start: "2026-07-25"
+  date_start: "2026-07-29"
   description: ""
   organization: Tencent Hunyuan
   organization_url: ""
