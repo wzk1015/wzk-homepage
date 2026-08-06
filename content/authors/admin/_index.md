@@ -37,7 +37,7 @@ social:
       header: true
     link: uploads/wechat.jpg
     icon: weixin
-    icon_pack: brands
+    icon_pack: fa-brands
 organizations:
   - name: Shanghai Jiao Tong University
     url: https://www.sjtu.edu.cn
