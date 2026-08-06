@@ -33,6 +33,11 @@ social:
     link: uploads/CV_ZhaokaiWang.pdf
     icon: cv
     icon_pack: ai
+  - display:
+      header: true
+    link: uploads/wechat.jpg
+    icon: weixin
+    icon_pack: brands
 organizations:
   - name: Shanghai Jiao Tong University
     url: https://www.sjtu.edu.cn
