@@ -26,7 +26,7 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
-* 2026.7: 🏆 I am selected for the [Tencent PhD Research Incentive Program (Hunyuan Scholar)](https://mp.weixin.qq.com/s/eVUy4dBh3aUBk5uRW2GBPw).
+* 2026.7: 🏆 I am selected for the [Tencent PhD Research Incentive Program](https://mp.weixin.qq.com/s/eVUy4dBh3aUBk5uRW2GBPw)  (**Hunyuan Scholar, ¥100,000 scholarship**).
 * 2026.7: ⭐️ Our paper [GRADE](https://arxiv.org/abs/2603.12264) is accepted by ECCV as **Oral**.
 
 * 2026.5: ⭐️ Our paper [GenExam](https://arxiv.org/pdf/2509.14232) on benchmarking image generation is accepted by **ICML 2026**.
