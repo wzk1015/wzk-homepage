@@ -26,6 +26,8 @@ design:
     padding: ["50px", "100px", "50px", "100px"]
 ---
 
+* 2026.9: 🏆 I am awarded the **Doctoral National Scholarship**.
+* 2026.9: 🚀 Check out [Naive-N0.5-Flash](https://naive.ai/en/research/), an open-weight model for coding and AI R&D.
 * 2026.7: 🏆 I am selected for the [Tencent PhD Research Incentive Program](https://mp.weixin.qq.com/s/eVUy4dBh3aUBk5uRW2GBPw)  (**Hunyuan Scholar, ¥100,000 scholarship**).
 * 2026.7: ⭐️ Our paper [GRADE](https://arxiv.org/abs/2603.12264) is accepted by ECCV as **Oral**.
 

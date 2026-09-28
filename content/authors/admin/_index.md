@@ -4,7 +4,7 @@ role: (王肇凯)
 avatar_filename: avatar.jpg
 bio: 
 interests:
-  - Multimodal Learning
+  - Multimodal Models
   - Coding Agents
   - Music Generation
 social:
@@ -56,7 +56,7 @@ email: "self@wzk.plus"
 superuser: true
 highlight_name: true
 ---
-I am a final-year Ph.D. candidate at Shanghai Jiao Tong University in a joint program with Shanghai AI Laboratory, supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>. I obtained my bachelor's degree from Beihang University in 2022, where I was supervised by Prof. [Si Liu](https://colalab.net/team/). I also have a double bachelor's degree in economics from Peking University. I was an intern at [OpenGVLab](https://github.com/OpenGVLab) (InternVL team) of Shanghai AI Laboratory from 2023 to 2026.  Previously, I interned at [SenseTime](https://www.sensetime.com/) and <a href="https://sail.sea.com/">Sea AI Lab</a>.
+I am a final-year Ph.D. candidate at Shanghai Jiao Tong University in a joint program with Shanghai AI Laboratory, supervised by Prof. <a href="https://jifengdai.org/">Jifeng Dai</a>. Currently I am an intern at [Naive AI](https://naive.ai/en/). I obtained my bachelor's degree from Beihang University in 2022, where I was supervised by Prof. [Si Liu](https://colalab.net/team/). I also have a double bachelor's degree in economics from Peking University. I was an intern at [OpenGVLab](https://github.com/OpenGVLab) (InternVL team) of Shanghai AI Laboratory from 2023 to 2026.  Previously, I interned at [SenseTime](https://www.sensetime.com/) and <a href="https://sail.sea.com/">Sea AI Lab</a>.
 
 
 
