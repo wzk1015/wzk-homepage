@@ -30,6 +30,18 @@ design:
 
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
+      <img src="pub_imgs/naive_n0.5_flash.png" alt="naive_n0.5_flash thumbnail" style="width: 100%; height: auto;" />
+    </div>
+    <div class="publication-text" style="flex:3;  margin-left: 20px;">
+      <p><strong>Naive-N0.5-Flash: Building Frontier AI with AI</strong></p>
+      <p>Naive AI Team</p>
+      <p><a href="https://naive.ai/en/research/">[Blog]</a> <a href="https://huggingface.co/NaiveAI">[Model]</a> <a href="https://github.com/NaiveAI-Labs/Naive-N0.5-Flash">[Code]</a></p>
+    </div>
+</div>
+
+
+<div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
+    <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/internvl3.5.png" alt="mono_v1.5 thumbnail" style="width: 100%; height: auto;" />
     </div>
     <div class="publication-text" style="flex:3;  margin-left: 20px;">
@@ -93,7 +105,7 @@ design:
       <p><a href="https://arxiv.org/abs/2607.02290">[Paper]</a> <a href="https://github.com/VisionXLab/DisciplineGen-1M">[Code]</a></p>
     </div>
   </div>
-  
+
 <div class="publication-item" style="display: flex; align-items: center; margin-bottom: 20px;">
     <div class="publication-image" style="flex:1; max-width: 400px;">
       <img src="pub_imgs/worldcuparena.png" alt="WorldCupArena thumbnail" style="width: 100%; height: auto;" />

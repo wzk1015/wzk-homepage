@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2026-07-29"
+  date_start: "2026-09-27"
   description: ""
   organization: Shanghai Jiao Tong University
   organization_url: ""
