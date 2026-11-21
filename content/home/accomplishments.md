@@ -33,7 +33,7 @@ item:
   organization_url: ""
   title: "**Doctoral National Scholarship**"
   url: ""
-- certificate_url: "https://mp.weixin.qq.com/s/eVUy4dBh3aUBk5uRW2GBPw"
+- certificate_url: "https://www.wzk.plus/award_imgs/hy.jpg"
   date_end: ""
   date_start: "2026-07-29"
   description: ""
