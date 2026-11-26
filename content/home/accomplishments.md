@@ -40,7 +40,7 @@ item:
   organization: Tencent Hunyuan
   organization_url: ""
   title: "**Tencent PhD Research Incentive Program (Hunyuan Scholar)**"
-  url: ""
+  url: "https://mp.weixin.qq.com/s/H-7tSjsoBgUQayb4MbHahQ?scene=1&click_id=763240147"
 - certificate_url: https://www.wzk.plus/award_imgs/neurips.jpg
   date_end: ""
   date_start: "2025-12-01"
